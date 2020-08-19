@@ -1,0 +1,738 @@
+ScientificName,NuContAvailable,CropCategory,YieldUnit,AvYieldUnitWeight(lb),AvMoisture%,AvN%(dry),AvP%(dry),AvK%(dry),YieldUnitWeight(lb)_set,DryMatter%_M-FF,DryMatter%_NAS,DryMatter%_F&L,AvDryMatter%
+Quercus sp.,"N,P,K",Tree and fruit,lb of fruit,1,27.9,1.364771151,0.109570042,0.747572816,1,,,,72.1
+"Medicago sativa, Dactylis glomerata","N,P",Forage,ton,2000,9.7,2.479714286,0.267857143,#DIV/0!,"2,000",89.6,91.2,91.4,90.3
+"Medicago sativa, Dactylis glomerata","N,P,K",Forage,ton,2000,7.95,2.144,0.2,1.49,"2,000",,92.9,91.2,92.05
+"Medicago sativa, Bromus inermis","N,P,K",Forage,ton,2000,77.63,3.322074074,0.310555556,2.8,"2,000",22.5,21.6,,22.37
+"Medicago sativa, Bromus inermis","N,P,K",Forage,ton,2000,11.58,2.41770852,0.271053812,1.897746637,"2,000",89.2,82.5,91,88.42
+"Medicago sativa, Bromus inermis","N,P,K",Forage,ton,2000,10.1,2.192,0.295,1.4,"2,000",,89.9,89.9,89.9
+"Medicago sativa, Bromus inermis","N,P",Forage,ton,2000,10.2,2.192,0.21,#DIV/0!,"2,000",,89.8,89.8,89.8
+"Medicago sativa, Phleum pratense","N,P,K",Forage,ton,2000,78.08,3.364748858,0.368824201,2.239360731,"2,000",21.9,21.9,21.9,21.93
+"Medicago sativa, Phleum pratense","N,P,K",Forage,ton,2000,10.37,2.172886905,0.211071429,2.16,"2,000",89.6,89,90.3,89.63
+"Medicago sativa, Phleum pratense","N,P",Forage,ton,2000,9.8,1.792,0.14,#DIV/0!,"2,000",,90.2,90.2,90.2
+"Medicago sativa, Phleum pratense","N,P",Forage,ton,2000,9,2.8,0.21,#DIV/0!,"2,000",,91,91,91
+Medicago sativa,"N,P,K",Forage,ton,2000,76.5,3.206196721,0.27897541,2.608032787,"2,000",24.4,25.9,23.7,23.5
+Medicago sativa,"N,P,K",Forage,ton,2000,76.18,3.351777778,0.292777778,2.717777778,"2,000",22.5,23.9,23.7,23.82
+Medicago sativa,"N,P,K",Forage,ton,2000,76.1,2.952,0.31,3.1,"2,000",,24.3,23.5,23.9
+Medicago sativa,"N,P,K",Forage,ton,2000,74.6,2.864,0.38,2.95,"2,000",,25.4,,25.4
+Medicago sativa,N,Forage,ton,2000,74.35,3.288,#DIV/0!,#DIV/0!,"2,000",,23,28.3,25.65
+Medicago sativa,"N,P,K",Forage,ton,2000,75.05,2.796419204,0.270739477,2.890978261,"2,000",25.3,24.7,27.9,24.95
+Medicago sativa,"N,P,K",Forage,ton,2000,75.3,2.528,0.4,2.88,"2,000",,24.7,24.7,24.7
+Medicago sativa,N,Forage,ton,2000,71.4,2.256,#DIV/0!,#DIV/0!,"2,000",,26.7,30.5,28.6
+Medicago sativa,N,Forage,ton,2000,71.2,2.208,#DIV/0!,#DIV/0!,"2,000",,,28.8,28.8
+Medicago sativa,"N,P,K",Forage,ton,2000,75.08,3.158580237,0.29166996,2.713478261,"2,000",25.3,24.2,26.1,24.92
+Medicago sativa,N,Forage,ton,2000,77.9,2.496,#DIV/0!,#DIV/0!,"2,000",,22.1,,22.1
+Medicago sativa,"P,K",Forage,ton,2000,76.8,#DIV/0!,0.43,3.25,"2,000",,23.2,,23.2
+Medicago sativa,"N,P,K",Forage,ton,2000,78.34,3.487117588,0.343919598,2.267952261,"2,000",19.9,20.9,22.5,21.66
+Medicago sativa,"N,P,K",Forage,ton,2000,82.9,3.488,0.39,3.4,"2,000",,17.1,17.1,17.1
+Medicago sativa,"N,P,K",Forage,ton,2000,76.95,3.376,0.375,3.39,"2,000",,23.1,23,23.05
+Medicago sativa,N,Forage,ton,2000,76.8,3.92,#DIV/0!,#DIV/0!,"2,000",,23.2,23.2,23.2
+Medicago sativa,"N,P,K",Forage,ton,2000,9.65,2.78879558,0.261298343,2.119198895,"2,000",90.5,91.4,89.5,90.35
+Medicago sativa,"N,P,K",Forage,ton,2000,9.9,2.616,0.35,2.48,"2,000",,89.4,90.8,90.1
+Medicago sativa,"N,P,K",Forage,ton,2000,9.35,2.856,0.285,1.92,"2,000",,89.9,91.4,90.65
+Medicago sativa,"N,P,K",Forage,ton,2000,10.3,2.968,0.19,2.47,"2,000",,89.3,90.1,89.7
+Medicago sativa,"N,P,K",Forage,ton,2000,10.58,3.054446409,0.228798343,2.344198895,"2,000",90.5,90.1,90.5,89.42
+Medicago sativa,"N,P,K",Forage,ton,2000,9.3,2.736,0.255,2.465,"2,000",,90.2,91.2,90.7
+Medicago sativa,"N,P,K",Forage,ton,2000,12,3.168,0.255,2.54,"2,000",,87,89,88
+Medicago sativa,"N,P,K",Forage,ton,2000,12.95,3.248,0.27,2.84,"2,000",,85.9,88.2,87.05
+Medicago sativa,"N,P,K",Forage,ton,2000,11.12,2.618647514,0.238273481,1.764198895,"2,000",90.5,87.6,90.3,88.88
+Medicago sativa,"N,P,K",Forage,ton,2000,15.25,2.392,0.22,1.99,"2,000",,83.1,86.4,84.75
+Medicago sativa,N,Forage,ton,2000,12.7,2.592,#DIV/0!,#DIV/0!,"2,000",,85.6,89,87.3
+Medicago sativa,N,Forage,ton,2000,12.35,1.96,#DIV/0!,#DIV/0!,"2,000",,87.6,87.7,87.65
+Medicago sativa,"N,P,K",Forage,ton,2000,10.76,2.805646409,0.251298343,1.779198895,"2,000",90.5,89.5,90.2,89.24
+Medicago sativa,"N,P",Forage,ton,2000,11.05,2.424,0.25,#DIV/0!,"2,000",,87.8,90.1,88.95
+Medicago sativa,"N,P,K",Forage,ton,2000,9.2,2.736,0.31,3.25,"2,000",,90.5,91.1,90.8
+Medicago sativa,N,Forage,ton,2000,11.6,3.008,#DIV/0!,#DIV/0!,"2,000",,,88.4,88.4
+Medicago sativa,"N,P,K",Forage,ton,2000,11.34,3.388963536,0.336160221,2.436160221,"2,000",90.5,87.5,90.3,88.66
+Medicago sativa,"N,P,K",Forage,ton,2000,17.4,2.528,0.29,2.8,"2,000",,82.6,,82.6
+Medicago sativa,N,Forage,ton,2000,14,2.496,#DIV/0!,#DIV/0!,"2,000",,86,,86
+Medicago sativa,N,Forage,ton,2000,15.4,3.168,#DIV/0!,#DIV/0!,"2,000",,84.6,,84.6
+Medicago sativa,"N,P,K",Forage,ton,2000,12.4,3.184,0.28,2.8,"2,000",,,87.6,87.6
+Medicago sativa,"N,P,K",Forage,ton,2000,13,3.216,0.37,3.39,"2,000",,,87,87
+Medicago sativa,"N,P",Forage,ton,2000,14,3.056,0.22,#DIV/0!,"2,000",,,86,86
+Medicago sativa,N,Forage,cwt,100,11.7,6.014795017,#DIV/0!,#DIV/0!,100,88.3,88.3,,88.3
+Medicago sativa,"N,P,K",Forage,ton,2000,75.9,3.34,0.38,2.88,"2,000",,,,24.1
+Prunus dulcis,"N,P,K",Tree and fruit,lb of seed,1,4.42,3.339610797,0.544046872,0.765850596,1,,,,95.58
+Prunus dulcis,N,Tree and fruit,lb of fruit,1,15,3.3,#DIV/0!,#DIV/0!,1,,,,85
+Malus sp.,"N,P,K",Tree and fruit,lb of fruit ,1,81.78,0.338793093,0.051779714,0.747809583,48,,17.9,20.9,18.22
+Prunus armeniaca,"N,P,K",Tree and fruit,lb of fruit ,1,86.35,1.641025641,0.139194139,2.168498169,24,,,,13.65
+Cynara scolymus,"N,P,K",Vegetable,lb of fruit ,1,83,2.541176471,0.509411765,2,23,,,,17
+Helianthus tuberosus,"N,P,K",Vegetable,lb of tuber,1,80.07,1.52,0.303333333,2.016666667,10,,20.5,19.3,19.93
+Asparagus officinalis,"N,P",Vegetable,lb of stem ,1,92,5.55,0.69,#DIV/0!,30,,,,8
+Asparagus officinalis,"N,P",Vegetable,lb of stem ,1,93,4.342857143,0.742857143,#DIV/0!,30,,,,7
+Persea americana,"N,P,K",Tree and fruit,lb of fruit ,1,74.27,1.231247571,0.159347066,2.328021765,55,,,,25.73
+Persea americana,"N,P,K",Tree and fruit,lb of fruit ,1,79.73,1.255056734,0.192402565,2.407498767,55,,,,20.27
+Persea americana,"N,P,K",Tree and fruit,lb of fruit ,1,72.56,1.2303207,0.153061224,2.310495627,55,,,,27.44
+Paspalum notatum,"N,P,K",Forage,ton,2000,69.7,1.322666667,0.173333333,2.055,"2,000",,30.3,30.6,30.3
+Paspalum notatum,"N,P",Forage,ton,2000,9.83,1.52,0.2,#DIV/0!,"2,000",,89.9,90.6,90.17
+Paspalum notatum,N,Forage,ton,2000,9.1,0.752,#DIV/0!,#DIV/0!,"2,000",,90.8,,90.9
+Musa sp.,"N,P,K",Tree and fruit,lb of fruit ,1,74.26,0.64024864,0.077700078,1.538461539,40,,,,25.74
+Hordeum vulgare,"N,P,K",Cereal and oil,bu,48,13.3,2.32,0.35,0.49,48,,,86.7,86.7
+Hordeum vulgare,"N,P,K",Cereal and oil,lb straw/bu grain,72,9.2,0.688,0.08,2.11,,90,,91.6,90.8
+Hordeum vulgare,"N,P,K",Cereal and oil,bu,48,11.72,2.109338703,0.419356823,0.537024609,48,89.4,89,89,88.28
+Hordeum vulgare,"N,P,K",Cereal and oil,bu,48,10.77,1.614054134,0.375691509,0.58,48,89.9,88.8,,89.23
+Hordeum vulgare,"N,P,K",Forage,ton,2000,79.65,2.204648649,0.37018018,1.578288288,"2,000",22.2,,18.5,20.35
+Hordeum vulgare,"N,P,K",Forage,ton,2000,11.28,1.418136564,0.260825991,1.489196035,"2,000",90.8,87.7,88.4,88.73
+Hordeum vulgare,"N,P,K",Cereal and oil,lb straw/bu grain,72,11.25,0.686047242,0.095555556,1.793888889,,90,84.1,91.6,88.75
+Phaseolus sp.,"N,P,K",Vegetable,cwt,100,11.4,4.224,0.54,2.69,100,,,88.6,88.6
+Vicia faba,"N,P,K",Vegetable,lb of fruit,1,81,4.715789474,0.5,1.315789474,1,,,,19
+Phaseolus vulgaris,"N,P,K",Vegetable,cwt,100,10.75,3.985707865,0.443333333,1.066666667,100,89,88.8,90.2,89.25
+Phaseolus vulgaris,"N,P,K",Vegetable,lb straw/cwt grain,76.14,12.3,1.274971942,0.151967826,1.594927048,,89.1,85.7,87,87.7
+Phaseolus lunatus,"N,P",Vegetable,lb of fruit,1,69,3.664516129,0.564516129,#DIV/0!,1,,,,31
+Phaseolus lunatus,"N,P,K",Vegetable,lb of fruit,1,71,3.475862069,0.5,0.896551724,1,,,,29
+Phaseolus lunatus,"N,P,K",Vegetable,cwt,100,9.98,3.594547486,0.408058659,1.854860335,100,89.5,89.6,91,90.03
+Phaseolus lunatus,"N,P,K",Vegetable,ton,2000,10.95,1.198629256,0.14295174,1.142390572,"2,000",89.1,,,89.05
+Phaseolus vulgaris,"N,P,K",Vegetable,cwt,100,10.38,4.028666667,0.608333333,1.432777778,100,90,89.7,89.8,89.63
+Phaseolus vulgaris,"N,P,K",Vegetable,lb straw/cwt grain,76.14,10.93,1.155962589,0.14530116,1.141593715,,89.1,,89.1,89.07
+Phaseolus vulgaris,N,Vegetable,cwt,100,10,4,#DIV/0!,#DIV/0!,100,,,,90
+Phaseolus vulgaris,"N,P,K",Vegetable,lb of fruit,1,87.75,2.995652174,0.498695652,2.304347826,1,,,,12.25
+Fagus grandifolia,N,Tree and fruit,lb of nut,1,6.6,1.062098501,#DIV/0!,#DIV/0!,1,,,,93.4
+Beta vulgaris,"N,P,K",Vegetable,lb of root,1,87.46,2.145927273,0.323538462,2.457552389,25,13,12.7,,12.54
+Beta vulgaris,"N,P,K",Vegetable,lb of leaf,1,87.95,3.686,0.44,6.26,35,,9.1,,12.05
+Agrostis capillaris,"N,P,K",Forage,ton,2000,13.1,1.136,0.2,1.6,"2,000",,86.9,,86.9
+Cynodon dactylon,"N,P,K",Forage,ton,2000,70.88,1.878,0.1925,1.9575,"2,000",25,30.9,31.6,29.13
+Cynodon dactylon,"N,P,K",Forage,ton,2000,68.33,1.735047619,0.21,1.735714286,"2,000",35,35,,31.67
+Cynodon dactylon,"N,P,K",Forage,ton,2000,68.33,1.518380952,0.19,1.3,"2,000",35,35,,31.67
+Cynodon dactylon,"N,P,K",Forage,ton,2000,75,2.75,0.23,2.13,"2,000",,,,25
+Cynodon dactylon,"N,P,K",Forage,ton,2000,9.05,1.374556169,0.189986188,1.549765193,"2,000",90.5,91.2,91.1,90.95
+Cynodon dactylon,N,Forage,ton,2000,11.05,1.61,#DIV/0!,#DIV/0!,"2,000",,92.9,,88.95
+Cynodon dactylon,N,Forage,ton,2000,11.4,1.198,#DIV/0!,#DIV/0!,"2,000",,92.2,,88.6
+Cynodon dactylon,N,Forage,ton,2000,12.2,2.354,#DIV/0!,#DIV/0!,"2,000",,90.6,,87.8
+Rubus sp.,"N,P,K",Tree and fruit,lb of fruit ,1,85.64,0.802228412,0.146239554,1.364902507,11,,,,14.36
+Vigna unguiculata ssp. unguiculata,"N,P,K",Vegetable,cwt,100,85,3.52,0.52,1.466666667,100,,,,15
+Vaccinium sp.,"N,P,K",Tree and fruit,lb of fruit ,1,84.61,0.696556205,0.064977258,0.578297596,11,,,,15.39
+Poa sp.,"N,P,K",Forage,ton,2000,68.85,2.913907285,0.430463576,1.953642384,"2,000",30.2,32.1,,31.15
+Poa sp.,"N,P,K",Forage,ton,2000,64.3,2.352,0.29,2.14,"2,000",,35.7,,35.7
+Poa sp.,"N,P,K",Forage,ton,2000,67.1,1.168,0.27,1.37,"2,000",,32.9,,32.9
+Poa sp.,"N,P,K",Forage,ton,2000,70.7,2,0.31,1.97,"2,000",,29.3,,29.3
+Poa sp.,"N,P,K",Forage,ton,2000,10.3,1.76,0.27,1.72,"2,000",,89.7,,89.7
+Poa sp.,N,Forage,ton,2000,11.1,1.68,#DIV/0!,#DIV/0!,"2,000",,88.9,,88.9
+Poa pratensis,"N,P,K",Forage,ton,2000,70.47,2.603302428,0.396821192,1.967880795,"2,000",30.2,29,29.4,29.53
+Poa pratensis,"N,P,K",Forage,ton,2000,65.07,2.656,0.37,2.01,"2,000",,34.8,35,34.93
+Poa pratensis,"N,P,K",Forage,ton,2000,65.35,2.115384615,0.282362637,2.005494506,"2,000",36.4,32.9,,34.65
+Poa pratensis,N,Forage,ton,2000,66.6,1.285,#DIV/0!,#DIV/0!,"2,000",,41.8,,33.4
+Poa pratensis,"N,P,K",Forage,ton,2000,69.38,2.298424242,0.31,1.99,"2,000",33,31.7,32.8,30.63
+Poa pratensis,"N,P,K",Forage,ton,2000,10.95,1.602331096,0.283003356,1.922002237,"2,000",89.4,88.9,88.9,89.05
+Poa pratensis,N,Forage,ton,2000,10,1.952,#DIV/0!,#DIV/0!,"2,000",,,,90
+Poa pratensis,"N,P,K",Forage,ton,2000,7.9,1.424,0.27,1.52,"2,000",,92.1,,92.1
+Poa pratensis,"N,P,K",Forage,ton,2000,11.86,1.006403666,0.229773769,1.698825888,"2,000",87.3,90.2,89.2,88.14
+Poa pratensis,"N,P",Forage,ton,2000,13.45,1.723,0.24,#DIV/0!,"2,000",,88.1,,86.55
+Andropogon sp.,"N,P,K",Forage,ton,2000,60.35,1.346486804,0.146627566,1.348973607,"2,000",34.1,45.2,,39.65
+Andropogon sp.,N,Forage,ton,2000,65.8,1.68,#DIV/0!,#DIV/0!,"2,000",,34.2,,34.2
+Andropogon sp.,"N,P",Forage,ton,2000,29.6,#DIV/0!,0.13,#DIV/0!,"2,000",,70.4,,70.4
+Andropogon sp.,"N,P,K",Forage,ton,2000,42.52,1.009433071,0.126948819,0.51,"2,000",50.8,61.1,59,57.48
+Andropogon sp.,N,Forage,ton,2000,10.83,0.896267898,#DIV/0!,#DIV/0!,"2,000",86.6,90.9,,89.17
+Andropogon sp.,N,Forage,ton,2000,20,1.4,#DIV/0!,#DIV/0!,"2,000",,,,80
+Andropogon sp.,N,Forage,ton,2000,20,1.1,#DIV/0!,#DIV/0!,"2,000",,,,80
+Andropogon sp.,N,Forage,ton,2000,20,0.7,#DIV/0!,#DIV/0!,"2,000",,,,80
+Bertholletia excelsa,"N,P,K",Tree and fruit,lb of nut,1,3.34,2.373680944,0.620732464,0.620732464,1,,,,96.66
+Artocarpus altilis,"N,P,K",Tree and fruit,lb of fruit ,1,70.65,0.58330494,0.102214651,1.669505963,15,,,,29.35
+Brassica oleracea var. italica,N,Vegetable,lb of stem ,1,54.9,3.376,#DIV/0!,#DIV/0!,23,,45.1,,45.1
+Brassica oleracea var. italica,"N,P,K",Vegetable,lb of stem ,1,89.7,5.646666667,0.753333333,3.545,23,,10.9,,10.3
+Bromus sp.,"N,P,K",Forage,ton,2000,64.4,2.144,0.285,2.19,"2,000",,36,35.2,35.6
+Bromus sp.,N,Forage,ton,2000,72.6,1.792,#DIV/0!,#DIV/0!,"2,000",,27.1,27.7,27.4
+Bromus sp.,"N,P,K",Forage,ton,2000,44,1.024,0.26,1.25,"2,000",,,,56
+Bromus sp.,"N,P,K",Forage,ton,2000,8.93,1.530666667,0.16,1.64,"2,000",,91.4,90.8,91.07
+Bromus sp.,"N,P,K",Forage,ton,2000,7.1,1.736,0.325,1.91,"2,000",,,92.9,92.9
+Bromus sp.,"N,P,K",Forage,ton,2000,8.63,1.061333333,0.086666667,1.9,"2,000",,90.1,92,91.37
+Bromus sp.,"N,K",Forage,cwt,100,55.8,1.552,#DIV/0!,0.93,100,,44.2,,44.2
+Bromus inermis,"N,P,K",Forage,ton,2000,67.6,2.176,0.32,3.16,"2,000",,36.2,27,32.4
+Bromus inermis,"N,P,K",Forage,ton,2000,71.3,1.885777778,0.28,2.33,"2,000",30,27.1,29,28.7
+Bromus inermis,"N,P,K",Forage,ton,2000,45.5,0.836264151,0.19245283,0.34,"2,000",53,55.1,53.9,54.5
+Bromus inermis,N,Forage,ton,2000,70,2.24,#DIV/0!,#DIV/0!,"2,000",,30,,30
+Bromus inermis,N,Forage,ton,2000,74.7,3.024,#DIV/0!,#DIV/0!,"2,000",25,,25.6,25.3
+Bromus inermis,"N,P,K",Forage,ton,2000,10.48,2.027342342,0.230990991,2.203761261,"2,000",88.8,89.7,89.6,89.53
+Bromus inermis,"N,K",Forage,ton,2000,10.63,1.661863014,#DIV/0!,1.43,"2,000",87.6,90.1,90.4,89.37
+Bromus inermis,"N,P,K",Forage,ton,2000,6.83,0.98,0.192765957,2.305,"2,000",94,92.9,92.6,93.17
+Bromus inermis,"N,P,K",Forage,ton,2000,12.4,1.968,0.28,1.99,"2,000",,87.6,87.6,87.6
+Bromus inermis,"N,P,K",Forage,ton,2000,8.8,3.152,0.46,3.41,"2,000",,,91.2,91.2
+Bromus inermis,N,Forage,ton,2000,9.7,1.93145515,#DIV/0!,#DIV/0!,"2,000",90.3,90.3,,90.3
+Bromus sp.,"N,P,K",Forage,ton,2000,12.9,1.192,0.35,2.32,"2,000",,85.4,88.8,87.1
+Brassica oleracea var.gemmifera,"N,P,K",Vegetable,lb of fruit ,1,86.6,4.981333333,0.5125,3.25,25,,14.8,,13.4
+Fagopyrum sp.,"N,P,K",Cereal and oil,bu,48,12.2,1.937932723,0.360568182,0.510340909,48,88,87.7,87.9,87.8
+Fagopyrum sp.,"N,P,K",Cereal and oil,ton,2000,11.32,0.791639892,0.101286682,2.619334086,"2,000",88.6,88.3,88.4,88.68
+Juglans cinerea,"N,P,K",Tree and fruit,lb of nut,1,3.34,4.121663563,0.461411132,0.435547279,1,,,,96.66
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,90.8,3.454468085,0.354787234,2.727730497,50,9.4,,9.2,9.2
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,91.7,3.034245614,0.384912281,3.163157895,50,7.6,8.7,8.6,8.3
+Brassica oleracea,"N,P",Vegetable,lb of leaf,1,85.75,2.664556962,0.21,#DIV/0!,1,15.8,14.8,12.4,14.25
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,93,3.085714286,0.485714286,2.928571429,40,,,,7
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,92,2.8,0.525,2.375,50,,,,8
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,92,2.4,0.425,2.75,50,,,,8
+Phalaris arundinacea,"N,P,K",Forage,ton,2000,75.8,2.424,0.33,3.64,"2,000",,25.4,,24.2
+Phalaris arundinacea,"N,P",Forage,ton,2000,76.1,2.12,0.2,#DIV/0!,"2,000",,25.5,22.3,23.9
+Prunus avium,"N,P,K",Tree and fruit,lb of fruit ,1,81.38,1.073960499,0.098752599,1.164241164,18,,,,18.62
+Castanea mollissima,"N,P,K",Tree and fruit,lb of fruit ,1,43.95,1.198929527,0.171275647,0.79750223,18,,,,56.05
+Castanea sativa,"N,P,K",Tree and fruit,lb of fruit,1,48.65,0.754040896,0.181110029,1.008763389,1,,,,51.35
+Castanea crenata,"N,P,K",Tree and fruit,lb of fruit,1,61.41,0.932884167,0.186576833,0.852552475,1,,,,38.59
+Cichorium,N,Forage,ton,2000,82.6,0.0352,#DIV/0!,#DIV/0!,"2,000",,17.4,,17.4
+Allium schoenoprasum,"N,P,K",Vegetable,lb of leaf,1,92,5.6,0.6375,3.125,1,,,,8
+"Trifolium sp., Phleum pratense","N,P,K",Forage,ton,2000,11.1,1.488,0.17,1.81,"2,000",,88.9,,88.9
+Phalaris arundinacea,"N,P",Forage,ton,2000,8.25,2.64,0.24,#DIV/0!,"2,000",,91.7,91.8,91.75
+Brassica sp.,"N,P,K",Cereal and oil,cwt,100,8.93,3.888736648,0.62,0.98,100,90.5,90.5,92.2,91.07
+Brassica sp.,N,Cereal and oil,lb straw/cwt grain,236,20.3,0.56,#DIV/0!,#DIV/0!,,,79.7,,79.7
+Averrhoa carambola,"N,P,K",Tree and fruit,lb of fruit ,1,90.92,0.95154185,0.176211454,1.795154185,22,,,,9.08
+Carissa macrocarpa,"N,P,K",Tree and fruit,lb of fruit,1,84.17,0.505369551,0.044219836,1.642451042,1,,,,15.83
+Daucus carota ssp. sativus,"N,P,K",Vegetable,lb of root,1,88,1.510773109,0.328355742,2.430168067,25,11.9,12.9,11.7,12
+Phalaris arundinacea,"N,P",Forage,ton,2000,70,1.248,0.2,#DIV/0!,"2,000",,30,,30
+Phalaris arundinacea,"N,P,K",Forage,ton,2000,74.7,1.984,0.28,2.4,"2,000",,27.7,22.9,25.3
+Phalaris arundinacea,"N,P,K",Forage,ton,2000,76.25,2.528,0.4,3.31,"2,000",,24.5,23,23.75
+Phalaris arundinacea,"N,P,K",Forage,ton,2000,10.97,1.701333333,0.283333333,2.99,"2,000",,88.8,89.3,89.03
+Phalaris arundinacea,"N,P,K",Forage,ton,2000,8.1,2.184,0.47,2.62,"2,000",,91.5,92.3,91.9
+Phalaris arundinacea,"N,P",Forage,ton,2000,7.9,1.424,0.145,#DIV/0!,"2,000",,91.5,92.7,92.1
+Phalaris arundinacea,"P,K",Forage,ton,2000,8.1,#DIV/0!,0.31,2.07,"2,000",,91.9,,91.9
+Daucus carota ssp. sativus,"N,P,K",Vegetable,lb of stem and leaf,1,83.83,2.349666667,0.1875,1.875,1,16,16.5,,16.17
+Brassica oleracea var. botrytis,"N,P,K",Vegetable,lb of fruit ,1,90.88,4.42631579,0.664473684,3.22,50,,9,,9.13
+Apium graveolens var. dulce,"N,P,K",Vegetable,lb of stem ,1,94.55,2.424,0.66,4.8,60,,5.9,,5.45
+Apium graveolens var. dulce,"N,P,K",Vegetable,lb of stem ,1,96,2.8,0.675,4,60,,,,4
+Beta vulgaris ssp. cicla,"N,P,K",Vegetable,lb of leaf,1,92,3.6,0.575,3,35,,,,8
+Annona cherimola,"N,P",Tree and fruit,lb of fruit,1,73.5,0.78490566,0.150943396,#DIV/0!,1,,,,26.5
+Prunus cerasus,"N,P,K",Tree and fruit,lb of fruit ,1,86.13,1.153568854,0.10814708,1.247296323,18,,,,13.87
+Trifolium hybridum,"N,P,K",Forage,ton,2000,77.2,2.8876,0.285681818,2.7,"2,000",22,22.5,22.5,22.8
+Trifolium hybridum,"N,P,K",Forage,ton,2000,75.87,2.496063492,0.260777509,2.582372881,"2,000",23.6,23.6,,24.13
+Trifolium hybridum,"N,P,K",Forage,ton,2000,76.4,2.512,0.25,2.58,"2,000",,23.6,,23.6
+Trifolium hybridum,"N,P,K",Forage,ton,2000,12.56,2.266845444,0.254679415,2.48116423,"2,000",88.9,87.4,87.9,87.44
+Trifolium hybridum,N,Forage,ton,2000,17.85,2.632,#DIV/0!,#DIV/0!,"2,000",,82.2,82.1,82.15
+Trifolium hybridum,"N,P,K",Forage,ton,2000,10.35,2.362247191,0.280898876,2.550561798,"2,000",89,90.3,,89.65
+Trifolium hybridum,"N,P,K",Forage,ton,2000,11,2.416,0.28,2.55,"2,000",,89,89,89
+Trifolium incarnatum,"N,P,K",Forage,ton,2000,80.78,2.737579888,0.275356081,3.100862069,"2,000",17.4,17.6,18.2,19.22
+Trifolium incarnatum,N,Forage,ton,2000,84.1,2.816,#DIV/0!,#DIV/0!,"2,000",,15.9,,15.9
+Trifolium incarnatum,"N,P,K",Forage,ton,2000,11.75,2.654096389,0.224392347,2.759329609,"2,000",89.5,88.8,87.8,88.25
+Trifolium incarnatum,N,Forage,ton,2000,15.1,3.776,#DIV/0!,#DIV/0!,"2,000",,84.9,,84.9
+Trifolium incarnatum,N,Forage,ton,2000,13.9,2.624,#DIV/0!,#DIV/0!,"2,000",,86.1,,86.1
+"Trifolium pratense, Poaceae","N,P,K",Forage,ton,2000,11.6,2.272,0.23,1.42,"2,000",,88.1,88.7,88.4
+"Trifolium pratense, Poaceae",N,Forage,ton,2000,11.3,2.528,#DIV/0!,#DIV/0!,"2,000",,88.7,88.7,88.7
+"Trifolium pratense, Poaceae","N,P",Forage,ton,2000,8.6,1.776,0.25,#DIV/0!,"2,000",,91.4,91.4,91.4
+"Trifolium pratense, Poaceae","N,P,K",Forage,ton,2000,10.8,2.656,0.23,1.59,"2,000",,89.2,89.2,89.2
+"Trifolium partense, Phleum pratense","P,K",Forage,ton,2000,9.6,#DIV/0!,0.17,1.52,"2,000",,90.4,,90.4
+Trifolium pratense,"N,P,K",Forage,ton,2000,77.5,2.921061225,0.29372449,2.401632653,"2,000",24.5,22.7,22.8,22.5
+Trifolium pratense,"N,P,K",Forage,ton,2000,80.15,3.104,0.38,2.49,"2,000",,19.7,,19.85
+Trifolium pratense,"N,P,K",Forage,ton,2000,73.58,2.374716484,0.284917582,1.964505495,"2,000",27.3,27.6,26.2,26.42
+Trifolium pratense,N,Forage,ton,2000,75,3.4,#DIV/0!,#DIV/0!,"2,000",,,,25
+Trifolium pratense,"N,P,K",Forage,ton,2000,74.27,2.424986301,0.284863014,1.98,"2,000",,23.5,24.5,25.73
+Trifolium pratense,"N,P,K",Forage,ton,2000,13.95,2.507601359,0.261625142,1.887157418,"2,000",88.3,78,89.9,86.05
+Trifolium pratense,"N,P,K",Forage,ton,2000,12.53,2.394049187,0.309455165,1.909551646,"2,000",88.1,86.4,87.9,87.47
+Trifolium pratense,"N,P,K",Forage,ton,2000,13.55,2.42703689,0.249455165,1.859701097,"2,000",88.1,86.1,86.6,86.45
+Trifolium pratense,N,Forage,ton,2000,15,3.35,#DIV/0!,#DIV/0!,"2,000",,,,85
+Trifolium pratense,"N,P,K",Forage,ton,2000,8.8,1.936,0.21,1.7,"2,000",,91.2,91.4,91.2
+Trifolium pratense,"N,P,K",Forage,ton,2000,11.7,2.458049187,0.279455165,1.553034431,"2,000",88.1,88.4,88.4,88.3
+Trifolium pratense,"N,P",Forage,cwt,100,12.23,5.892571429,0.61,#DIV/0!,100,87.5,,87.8,87.77
+Trifolium repens,"N,P,K",Forage,ton,2000,81.9,4.255685393,0.473904494,2.221207865,"2,000",17.8,17.7,18.9,18.1
+Trifolium repens,"N,P",Forage,ton,2000,82.1,4.528,0.44,#DIV/0!,"2,000",,17.9,,17.9
+Trifolium repens,"N,P,K",Forage,ton,2000,9.73,3.089409091,0.352045455,2.25,"2,000",88,90.7,92.4,90.28
+Trifolium repens,N,Forage,ton,2000,7.6,3.216,#DIV/0!,#DIV/0!,"2,000",,92.4,,92.4
+Trifolium repens,N,Forage,ton,2000,12.4,2.768,#DIV/0!,#DIV/0!,"2,000",,87.6,,87.6
+Trifolium repens,N,Forage,ton,2000,7.8,2.256,#DIV/0!,#DIV/0!,"2,000",,92.2,,92.2
+"Trifolium repens, Poaceae","N,P",Forage,ton,2000,80,2.8,0.4,#DIV/0!,"2,000",20,20,,20
+"Trifolium repens, Poaceae",N,Forage,ton,2000,80,2.448,#DIV/0!,#DIV/0!,"2,000",,20,,20
+"Trifolium repens, Poaceae","N,P,K",Forage,ton,2000,11.25,2.918278596,0.227587769,1.962627407,"2,000",88.3,89.2,,88.75
+"Trifolium repens, Poaceae","N,P,K",Forage,ton,2000,8.5,1.808,0.22,1.75,"2,000",,91.5,,91.5
+"Trifolimu repens, Phleum pratense","N,P,K",Forage,ton,2000,70.6,3.168,0.2,2.22,"2,000",,29.4,,29.4
+Trifolium repens,"N,P,K",Forage,ton,2000,80.94,3.953580723,0.410421687,1.94936747,"2,000",16.6,18,17.7,19.06
+Trifolium repens,"P,K",Forage,ton,2000,64.6,#DIV/0!,0.31,3.17,"2,000",,35.4,,35.4
+Trofolium repens,"N,P,K",Forage,ton,2000,10.82,3.324152957,0.323149297,2.431145251,"2,000",89.5,89.5,89.3,89.18
+Trofolium repens,"N,P",Forage,ton,2000,7.57,3.52959276,0.31,#DIV/0!,"2,000",88.4,94.5,94.4,92.43
+Trofolium repens,"N,P,K",Forage,ton,2000,8.9,2.528,0.25,2.16,"2,000",,91.1,91.1,91.1
+Cocos nucifera,"N,P,K",Tree and fruit,lb of fruit ,1,46.99,1.005093379,0.213167327,0.671571402,40,,,,53.01
+Cocos nucifera,"N,P,K",Tree and fruit,lb of fruit ,1,67.62,1.131562693,0.308832613,0.812229771,40,,,,32.38
+Zea mays ssp. mays,"N,P,K",Cereal and oil,bu,56,13.52,1.637313016,0.312586636,0.344444444,56,87,85.8,88,86.48
+Zea mays ssp. mays,"N,P,K",Forage,ton,2000,71.2,1.2356,0.185,1.04,"2,000",,28.1,30.1,28.8
+Zea mays ssp. mays,"N,P,K",Forage,ton,2000,70.08,1.295144928,0.378405797,1.035652174,"2,000",27.6,33.6,28.5,29.93
+Zea mays ssp. mays,"N,P,K",Forage,ton,2000,76.87,1.418666667,0.24,1.465,"2,000",,25.4,22,23.13
+Zea mays ssp. mays,"N,P,K",Cereal and oil,lb stover/bu grain,56,13.3,0.983381898,0.099834437,1.503647903,,90.6,84.4,86.8,86.7
+Zea mays ssp. mays,"N,P,K",Cereal and oil,lb stover/bu grain,70,13.3,0.983381898,0.099834437,1.503647903,,90.6,84.4,86.8,86.7
+Zea mays ssp. mays,"N,P",Cereal and oil,bu,50,10.1,2.047111111,0.328055556,#DIV/0!,50,90,89.8,89.8,89.9
+Zea mays ssp. mays,"N,P,K",Cereal and oil,lb stover/bu grain,56,12.73,0.969842531,0.099779249,1.521530537,,90.6,84.4,86.8,87.27
+Zea mays ssp. mays,N,Vegetable,lb of fruit ,1,64.85,1.611439153,#DIV/0!,#DIV/0!,50,37.8,37.8,,35.15
+Zea mays ssp. mays,"N,P",Vegetable,lb of caryopsis,1,9.07,2.005333333,0.383333333,#DIV/0!,1,,90.9,90.9,90.93
+Zea mays ssp. mays,N,Vegetable,ton,2000,76.54,1.202660465,#DIV/0!,#DIV/0!,"2,000",21.5,22,21.8,23.46
+Zea mays ssp. mays,"N,P,K",Vegetable,lb stover/bu grain,56,9.4,1.037527594,0.099337748,1.644591612,,90.6,,,90.6
+Gossypium sp.,N,Fiber and miscellaneous,lb of seed,1,9,0.196,#DIV/0!,#DIV/0!,1,,92,,91
+Gossypium sp.,"N,P,K",Fiber and miscellaneous,lb of seed and lint,1,7.8,3.296,0.41,0.49,1,,92.5,91.9,92.2
+Gossypium sp.,"N,P,K",Fiber and miscellaneous,lb of seed,1,8.38,3.770842503,0.734516361,1.179137001,1,92.7,,92.8,91.63
+Gossypium sp.,N,Fiber and miscellaneous,lb straw/lb seed cotton,1,7.7,0.985915493,#DIV/0!,#DIV/0!,,92.3,,,92.3
+Vigna unguiculata ssp. unguiculata,"N,P,K",Forage,ton,2000,9.6,2.966387597,0.323427464,2.39,"2,000",,90.5,,90.4
+Vigna unguiculata ssp. unguiculata,"N,P,K",Vegetable,lb of seed,1,10.65,4.134561798,0.526713483,1.327668539,1,89,89,90.4,89.35
+Vigna unguiculata ssp. unguiculata,N,Forage,lb straw/lb seed,1.35,8.94,1.126869749,#DIV/0!,#DIV/0!,,91.5,91.2,91.3,91.06
+Malus sp.,"N,P,K",Tree and fruit,lb of fruit,1,78.94,0.303893637,0.071225071,0.921177588,1,,,,21.06
+Vaccinium macrocarpon,"N,P,K",Tree and fruit,lb of fruit ,1,86.54,0.46359584,0.066864785,0.527488856,18,,,,13.46
+Cucumis sativus,"N,P,K",Vegetable,lb of fruit ,1,95.5,2.5,0.525,4.25,55,,,,4.5
+Silphium perfoliatum,"N,P,K",Forage,ton,2000,71,3,0.05,3,"2,000",,,,29
+Ribes nigrum,"N,P,K",Tree and fruit,lb of fruit ,1,81.96,1.241685144,0.327050998,1.784922395,11,,,,18.04
+Ribes rubrum,"N,P,K",Tree and fruit,lb of fruit ,1,83.95,1.395638629,0.274143302,1.713395639,11,,,,16.05
+Annona reticulata,"N,P,K",Tree and fruit,lb of fruit,1,71.5,0.954385965,0.073684211,1.340350877,1,,,,28.5
+Phoenix dactylifera,"N,P,K",Tree and fruit,lb of fruit ,1,22.5,0.406709677,0.051612903,0.842580645,15,,,,77.5
+Solanum melongena,"N,P,K",Vegetable,lb of fruit ,1,93,2.514285714,0.313571429,3,33,,,,7
+Sambucus sp.,"N,P,K",Tree and fruit,lb of fruit ,1,79.8,0.522772277,0.193069307,1.386138614,11,,,,20.2
+Pennisetum purpureum,"N,P",Forage,ton,2000,74.7,0.768,0.31,#DIV/0!,"2,000",,25.3,,25.3
+Pennisetum purpureum,"N,P,K",Forage,ton,2000,70.45,0.682547264,0.3,3.18,"2,000",26.8,25.5,39.9,29.55
+Pennisetum purpureum,"N,P,K",Forage,ton,2000,79.8,0.888174204,0.44,2.32,"2,000",19.9,19.9,21,20.2
+Cichorium endivia,"N,P,K",Vegetable,lb of leaf,1,95,4.16,0.45,5.6,25,,,,5
+Cichorium endivia,"N,P,K",Vegetable,lb of leaf,1,94,3.2,0.233333333,4,25,,,,6
+Festuca or Lolium sp.,"N,P",Forage,ton,2000,64,1.161777778,0.25,#DIV/0!,"2,000",36,36,,36
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,71,2.36,0.37,1.92,"2,000",,29,29,29
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,73.9,2.752,0.4,2.13,"2,000",,26.1,,26.1
+Festuca or Lolium sp.,N,Forage,ton,2000,64,1.536,#DIV/0!,#DIV/0!,"2,000",,36,,36
+Festuca or Lolium sp.,N,Forage,ton,2000,64,1.072,#DIV/0!,#DIV/0!,"2,000",,36,,36
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,64,0.608,0.11,0.9,"2,000",,36,,36
+Festuca or Lolium sp.,N,Forage,ton,2000,10,1.511111111,#DIV/0!,#DIV/0!,"2,000",90,,,90
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,11.95,1.776,0.24,1.7,"2,000",,85.4,90.7,88.05
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,9,1.984,0.36,2.3,"2,000",,,91,91
+Festuca or Lolium sp.,"N,P,K",Forage,ton,2000,7.3,2.896,0.34,2,"2,000",,,92.7,92.7
+Lolium pratense,N,Forage,ton,2000,11.6,1.194570136,#DIV/0!,#DIV/0!,"2,000",,,,88.4
+Lolium arundinaceum,"N,P",Forage,ton,2000,70.5,2.336,0.37,#DIV/0!,"2,000",,29.5,29.5,29.5
+Lolium arundinaceum,"N,P",Forage,ton,2000,71.4,2.672,0.37,#DIV/0!,"2,000",,28.6,28.6,28.6
+Lolium arundinaceum,N,Forage,ton,2000,71.4,2.176,#DIV/0!,#DIV/0!,"2,000",,28.6,28.6,28.6
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,73.2,3.376,0.39,4.48,"2,000",,27.6,26,26.8
+Lolium arundinaceum,N,Forage,ton,2000,75,1.44,#DIV/0!,#DIV/0!,"2,000",,,,25
+Lolium arundinaceum,"N,P",Forage,ton,2000,73.7,3.218,0.39,#DIV/0!,"2,000",,27.6,,26.3
+Lolium arundinaceum,N,Forage,ton,2000,76.1,2.896,#DIV/0!,#DIV/0!,"2,000",,23.9,,23.9
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,75,1.1,0.25,1.82,"2,000",,,,25
+Lolium arundinaceum,N,Forage,ton,2000,75,1.072,#DIV/0!,#DIV/0!,"2,000",,,,25
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,75,1.7,0.29,2.06,"2,000",,,,25
+Lolium arundinaceum,N,Forage,ton,2000,75,1.68,#DIV/0!,#DIV/0!,"2,000",,,,25
+Lolium arundinaceum,N,Forage,ton,2000,70.5,1.856,#DIV/0!,#DIV/0!,"2,000",,29.5,29.5,29.5
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,8,3.144,0.26,1.96,"2,000",,,92,92
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,7.9,3.248,0.51,2.36,"2,000",,,92.1,92.1
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,8.4,2.312,0.32,2.36,"2,000",,,91.6,91.6
+Lolium arundinaceum,N,Forage,ton,2000,8.4,0.752,#DIV/0!,#DIV/0!,"2,000",,,91.6,91.6
+Lolium arundinaceum,N,Forage,ton,2000,15,3.062,#DIV/0!,#DIV/0!,"2,000",,,,85
+Lolium arundinaceum,"N,P",Forage,ton,2000,4.4,2.144,0.24,#DIV/0!,"2,000",,95.6,,95.6
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,12.5,1.714666667,0.3,1.96,"2,000",,,90,87.5
+Lolium arundinaceum,"N,P,K",Forage,ton,2000,11.4,2.174666667,0.29,2.06,"2,000",,,92.2,88.6
+Lolium arundinaceum,N,Forage,ton,2000,8,1.448,#DIV/0!,#DIV/0!,"2,000",,,92,92
+Lolium arundinaceum,"N,P",Forage,ton,2000,11,1.392,0.24,#DIV/0!,"2,000",,89,,89
+Ficus carica,"N,P,K",Tree and fruit,lb of fruit ,1,79.11,0.57443753,0.067017712,1.110579225,8,,,,20.89
+Corylus sp.,"N,P,K",Tree and fruit,lb of nut,1,5.42,2.205963206,0.329879467,0.470501163,1,,,,94.58
+LInum usitatissimum,"N,P,K",Cereal and oil,bu,56,6.14,3.703563326,0.566092751,0.844072495,56,93.8,93.2,93.3,93.86
+LInum usitatissimum,"N,P,K",Cereal and oil,lb straw/bu grain,80,6.94,1.112342909,0.084439655,1.741422414,,92.8,92.9,92.8,93.06
+Tripsacum dactyloides,"N,P,K",Forage,ton,2000,10.85,1.996,0.265,2.02,"2,000",,89.15,,89.15
+Tripsacum dactyloides,"N,P,K",Forage,ton,2000,10.85,1.685,0.265,2.02,"2,000",,89.15,,89.15
+Tripsacum dactyloides,"N,P,K",Forage,ton,2000,10.85,1.69212,0.395,2.64,"2,000",,89.15,,89.15
+Tripsacum dactyloides,"N,P,K",Forage,ton,2000,10.85,2.28,0.265,2.02,"2,000",,89.15,,89.15
+Tripsacum dactyloides,"N,P,K",Forage,ton,2000,10.85,1.51,0.095,3.06,"2,000",,89.15,,89.15
+Allium sativum,"N,P,K",Vegetable,lb of fruit ,1,61,2.625641026,0.44,1.384615385,30,,,,39
+Ginkgo biloba,"N,P,K",Tree and fruit,lb of fruit,1,55.2,1.542857143,0.276785714,1.138392857,1,,,,44.8
+Ribes sp.,"N,P,K",Tree and fruit,lb of fruit ,1,87.87,1.16075845,0.222588623,1.632316571,11,,,,12.13
+Vitis sp.,"N,P,K",Tree and fruit,lb of fruit,1,80.65,0.569518717,0.053475936,1.021390374,1,,,,19.35
+Vitis vinifera,"N,P,K",Tree and fruit,lb of fruit,1,80.28,0.571604938,0.066872428,0.951646091,1,,,,19.72
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,91.38,1.020881671,0.104408353,1.496519722,65,,,,8.62
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,89.31,0.748362956,0.112254443,1.375116932,65,,,,10.69
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,91.56,1.042654028,0.106635071,1.504739337,80,,,,8.44
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,90.89,1.1064764,0.087815587,1.525795829,65,,,,9.11
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,90.48,1.159663866,0.084033613,1.554621849,65,,,,9.52
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,89.58,1.351247601,0.115163148,1.372360845,65,,,,10.42
+Citrus X paradisi,"N,P,K",Tree and fruit,lb of fruit ,1,90.76,1.090909091,0.075757576,1.623376623,80,,,,9.24
+"Poaceae, Trifolium pratense","N,P,K",Forage,ton,2000,11.6,2.272,0.23,1.42,"2,000",,88.1,88.7,88.4
+"Poaceae, Trifolium pratense",N,Forage,ton,2000,11.3,2.528,#DIV/0!,#DIV/0!,"2,000",,88.7,88.7,88.7
+"Poaceae, Trifolium pratense","N,P",Forage,ton,2000,8.6,1.776,0.25,#DIV/0!,"2,000",,91.4,91.4,91.4
+"Poaceae, Trifolium pratense","N,P,K",Forage,ton,2000,10.8,2.656,0.23,1.59,"2,000",,89.2,89.2,89.2
+"Poaceae, Trifolium repens","N,P",Forage,ton,2000,80,2.8,0.4,#DIV/0!,"2,000",20,20,,20
+"Poaceae, Trifolium repens",N,Forage,ton,2000,80,2.448,#DIV/0!,#DIV/0!,"2,000",,20,,20
+"Poaceae, Trifolium repens","N,P,K",Forage,ton,2000,11.25,2.918278596,0.227587769,1.962627407,"2,000",88.3,89.2,,88.75
+"Poaceae, Trifolium repens","N,P,K",Forage,ton,2000,8.5,1.808,0.22,1.75,"2,000",,91.5,,91.5
+Poaceae,"N,P,K",Forage,ton,2000,72.5,2.503933571,0.256761566,1.969584816,"2,000",28.1,32.1,22.3,27.5
+Poaceae,"N,P,K",Forage,ton,2000,71.8,1.644813853,0.228636364,1.330584416,"2,000",30.8,30.8,23,28.2
+Poaceae,"N,P",Forage,ton,2000,52.1,0.977023697,0.05,#DIV/0!,"2,000",42.2,53.6,,47.9
+Poaceae,"N,P,K",Forage,ton,2000,10.9,1.518606742,0.218988764,1.449578652,"2,000",89,89.3,89.1,89.1
+Poaceae,P,Forage,ton,2000,10.6,#DIV/0!,0.28,#DIV/0!,"2,000",,89.4,,89.4
+Poaceae,"N,P,K",Forage,ton,2000,10.85,1.536,0.24,1.34,"2,000",,89.3,89,89.15
+Poaceae,"N,P",Forage,ton,2000,9.57,0.842666667,0.16,#DIV/0!,"2,000",,90.9,90.4,90.43
+Poaceae,"N,P,K",Forage,ton,2000,75.1,1.84,0.32,1.88,"2,000",,23.4,28.3,24.9
+Physalis sp.,"N,P",Tree and fruit,lb of fruit,1,85.4,2.082191781,0.273972603,#DIV/0!,1,,,,14.6
+Cyamopsis tetragonoloba,"N,P,K",Forage,ton,2000,80.8,1.904,0.16,1.91,"2,000",,19.2,,19.2
+Cyamopsis tetragonoloba,N,Forage,ton,2000,80.8,2.56,#DIV/0!,#DIV/0!,"2,000",,19.2,,19.2
+Cyamopsis tetragonoloba,"N,P,K",Forage,ton,2000,81,2.336,0.17,1.92,"2,000",,,,19
+Cyamopsis tetragonoloba,N,Forage,ton,2000,8.05,2.664,#DIV/0!,#DIV/0!,"2,000",,91.9,,91.95
+Psidium guajava,"N,P,K",Tree and fruit,lb of fruit ,1,86.1,0.943884892,0.179856115,2.043165468,10,,,,13.9
+Psidium cattleianum,"N,P,K",Tree and fruit,lb of fruit ,1,80.66,0.47983454,0.139607032,1.509824199,10,,,,19.34
+Carya sp.,"N,P,K",Tree and fruit,lb of nut,1,2.65,2.090600925,0.345146379,0.447868516,1,,,,97.35
+Artocarpus heterophyllus,"N,P,K",Tree and fruit,lb of fruit,1,72.23,0.846957148,0.129636298,1.09110551,1,,,,27.77
+Syzygium cumini,"N,P,K",Tree and fruit,lb of fruit,1,83.13,0.682868998,0.100770599,0.4682869,1,,,,16.87
+Simmondsia chinensis,N,Fiber and miscellaneous,lb of seed,1,4.9,2.368,#DIV/0!,#DIV/0!,1,,95.1,,95.1
+Ziziphus zizyphus,"N,P,K",Tree and fruit,lb of fruit,1,77.86,0.867208672,0.103884372,1.129177958,1,,,,22.14
+Brassica oleracea,"N,P,K",Vegetable,lb of leaf,1,85,3.52,0.373333333,2.666666667,35,,,,15
+Brassica oleracea,"N,P,K",Forage,lb of leaf,1,88.53,3.398779661,0.529491525,3.03,35,11.8,11.6,,11.47
+Actinidia deliciosa,"N,P,K",Tree and fruit,lb of fruit ,1,83.05,0.934513274,0.235988201,1.958702065,125,,,,16.95
+Brassica oleracea var. gongylodes,"N,P,K",Vegetable,lb of stem,1,91,3.022222222,0.511111111,3.888888889,1,,,,9
+Fortunella sp.,"N,P,K",Tree and fruit,lb of fruit ,1,81.7,0.786885246,0.103825137,1.065573771,22,,,,18.3
+Allium porrum,"N,P,K",Vegetable,lb of fruit ,1,83,1.411764706,0.205882353,1.058823529,20,,,,17
+Citrus limon,"N,P,K",Tree and fruit,lb of fruit ,1,87.2,1.511904762,0.119047619,1.150793651,79,,,,12.8
+Lens culinaris,"N,P,K",Vegetable,lb of seed,1,11.33,4.362666667,0.426666667,0.856666667,60,,88.5,89.5,88.67
+Kummerowia stipulacea,N,Forage,ton,2000,6.1,2.448,#DIV/0!,#DIV/0!,"2,000",,93.9,,93.9
+Kummerowia stipulacea,"N,P,K",Forage,ton,2000,9,2.288,0.24,0.96,"2,000",,91,91,91
+Kummerowia stipulacea,N,Forage,ton,2000,13,1.984,#DIV/0!,#DIV/0!,"2,000",,87,,87
+Kummerowia stipulacea,"N,P,K",Forage,ton,2000,9.6,2.544,0.21,1.05,"2,000",,90.4,90.4,90.4
+Lespedeza cuneata,"N,P,K",Forage,ton,2000,10,2.221865471,0.248318386,1.099327354,"2,000",89.2,90.8,,90
+Lespedeza cuneata,"N,P,K",Forage,ton,2000,8.6,2.304,0.23,1.01,"2,000",,91.4,,91.4
+Lespedeza cuneata,"N,P,K",Forage,ton,2000,8.2,2.416,0.23,0.93,"2,000",,91.8,,91.8
+Lespedeza cuneata,"N,P,K",Forage,ton,2000,5.4,2.752,0.26,0.69,"2,000",,94.6,,94.6
+Lespedeza cuneata,"N,P",Forage,ton,2000,5.6,2.432,0.22,#DIV/0!,"2,000",,94.4,,94.4
+Lespedeza cuneata,N,Forage,ton,2000,7.2,2.704,#DIV/0!,#DIV/0!,"2,000",,92.8,,92.8
+Lespedeza cuneata,"N,P,K",Forage,ton,2000,5.8,2.976,0.27,0.99,"2,000",,94.2,,94.2
+Lespedeza cuneata,N,Forage,ton,100,7.7,5.807575298,#DIV/0!,#DIV/0!,100,92.3,92.3,,92.3
+Kummerowia striata,"N,P,K",Forage,ton,2000,11,2.496,0.29,1.37,"2,000",,,,89
+Kummerowia striata,"N,P,K",Forage,ton,2000,9,2.608,0.24,1.1,"2,000",,,,91
+Kummerowia striata,"N,P,K",Forage,ton,2000,10.87,2.264,0.206666667,1.036666667,"2,000",,89.1,89.3,89.13
+Kummerowia striata,"N,P,K",Forage,ton,2000,8,2.016,0.183333333,1.033333333,"2,000",,94.2,90.8,92
+Kummerowia striata,"N,P,K",Forage,ton,2000,11.07,2.56,0.266666667,1.213333333,"2,000",,89.1,88.7,88.93
+Lactuca sativa L. var. crispa,"N,P,K",Vegetable,lb of leaf,1,96,4.8,0.775,6.75,50,,,,4
+Lactuca sativa L. var. capitata,"N,P,K",Vegetable,lb of leaf,1,95,2.56,0.5,2,50,,,,5
+Lactuca sativa,"N,P,K",Vegetable,lb of leaf,1,94.8,3.81,0.48,4.52,50,,5.4,,5.2
+Lactuca sativa var. longifolia,"N,P,K",Vegetable,lb of leaf,1,94,4.266666667,0.75,6.666666667,28,,,,6
+Citrus aurantiifolia,"N,P,K",Tree and fruit,lb of fruit ,1,88.26,0.954003407,0.153321976,0.868824532,80,,,,11.74
+Dimocarpus longan,"N,P,K",Tree and fruit,lb of fruit,1,82.75,1.215072464,0.12173913,1.542028986,1,,,,17.25
+Eriobotrya japonica,"N,P,K",Tree and fruit,lb of fruit,1,86.73,0.518462698,0.203466466,2.004521477,1,,,,13.27
+Litchi chinensis,"N,P,K",Tree and fruit,lb of fruit ,1,81.76,0.728070175,0.16995614,0.9375,15,,,,18.24
+Macadamia integrifolia,"N,P,K",Tree and fruit,lb of nut,1,2.88,1.36738056,0.140032949,0.378912685,1,,,,97.12
+Mammea americana,"N,P,K",Tree and fruit,lb of fruit,1,86.2,0.579710145,0.079710145,0.34057971,1,,,,13.8
+Mangifera indica,"N,P,K",Tree and fruit,lb of fruit ,1,81.71,0.446145435,0.060142154,0.852925096,10,,,,18.29
+Cucumis melo,"N,P,K",Tree and fruit,lb of fruit ,1,89.89,1.488845401,0.362113503,3.161741683,40,,,,10.11
+Cucumis melo,"N,P,K",Tree and fruit,lb of fruit ,1,92,1.5,0.0875,2.625,30,,,,8
+Cucumis melo,"N,P,K",Tree and fruit,lb of fruit ,1,88.33,0.909745574,0.164801369,2.579675644,30,,,,11.67
+Citrullus lanatus,"N,P,K",Tree and fruit,cwt,100,90.84,1.113580683,0.112002356,1.333156655,100,,,,9.16
+Setaria italica,"N,P,K",Cereal and oil,bu,50,10.62,2.1127641,0.343616723,0.349307894,50,89.1,89.3,89.6,89.38
+Setaria italica,"N,P,K",Forage,ton,2000,72.45,1.594131488,0.18150519,1.94,"2,000",,26.2,,27.55
+Setaria italica,N,Forage,ton,2000,7,1.582795699,#DIV/0!,#DIV/0!,"2,000",,,,93
+Setaria italica,"N,K",Cereal and oil,ton,2000,10.67,0.673925926,#DIV/0!,1.6,"2,000",90,,88,89.33
+Pennisetum glaucum,"N,P,K",Cereal and oil,bu,50,10.1,2.216,0.375,0.39,50,,89.1,90.7,89.9
+Pennisetum glaucum,"N,P,K",Forage,ton,2000,78.4,1.544,0.26,1.63,"2,000",,21.6,,21.6
+Pennisetum glaucum,N,Forage,ton,2000,10.1,1.601779755,#DIV/0!,#DIV/0!,"2,000",,,,89.9
+Pennisetum glaucum,"N,K",Cereal and oil,lb straw/lb grain,1.55,10,0.677777778,#DIV/0!,1.6,,90,,,90
+Panicum miliaceum,"N,P,K",Cereal and oil,bu,56,9.9,2.080332743,0.335464602,0.478554572,56,90.4,90,89.7,90.1
+Panicum miliaceum,"N,K",Cereal and oil,lb straw/bu grain,84.5,10,0.677777778,#DIV/0!,1.6,,90,,,90
+Brassica spp,N,Vegetable,cwt,100,4.1,3.837330553,#DIV/0!,#DIV/0!,100,95.9,,,95.9
+Mentha sp.,"N,P",Fiber and miscellaneous,ton,2000,12.27,2.336,0.22,#DIV/0!,"2,000",,87.5,87.7,87.73
+Morus nigra,"N,P,K",Tree and fruit,lb of fruit,1,87.68,1.87012987,0.308441558,1.574675325,1,,,,12.32
+Vigna radiata var. radiata,"N,P,K",Vegetable,lb of seed,1,10.23,4.117333333,0.4,1.326666667,1,,89.8,89.5,89.77
+Agaricus sp.,"N,P,K",Fiber and miscellaneous,lb of fruit ,1,92,5.8,1.125,4,10,,,,8
+Brassica juncea,"N,P,K",Vegetable,lb of leaf,1,91,4.8,0.5,3.777777778,35,,,,9
+Brassica sp.,N,Vegetable,ton,2000,17.5,2.832,#DIV/0!,#DIV/0!,"2,000",,,,82.5
+Melinis repens,"N,P",Forage,ton,2000,7.5,0.64,0.345945946,#DIV/0!,"2,000",,,,92.5
+Prunus persica var. nectarina,"N,P,K",Tree and fruit,lb of fruit ,1,86.28,1.096209913,0.116618076,1.545189504,25,,,,13.72
+Avena sativa,"N,P,K",Cereal and oil,bu,32,10.67,2.093241724,0.381844621,0.464179601,32,90.2,88.9,89.6,89.33
+Avena sativa,"N,P,K",Cereal and oil,bu,32,8.87,1.587649123,0.335,0.42,32,91.2,91.2,,91.13
+Avena sativa,"N,P,K",Forage,ton,2000,78.9,2.12,0.24,1.89,"2,000",,20.4,21.8,21.1
+Avena sativa,"N,P,K",Forage,ton,2000,73.97,1.97593985,0.339448622,1.879899749,"2,000",26.6,26.6,24.9,26.03
+Avena sativa,"P,K",Forage,ton,2000,70.93,#DIV/0!,0.253333333,1.933333333,"2,000",,25.6,30.6,29.07
+Avena sativa,"P,K",Forage,ton,2000,67.8,#DIV/0!,0.31,2.07,"2,000",,32.2,,32.2
+Avena sativa,"N,P",Forage,ton,2000,72,1.43542857,0.282857145,#DIV/0!,"2,000",,,,28
+Avena sativa,"N,P",Forage,ton,2000,83.68,2.886921987,0.473532241,#DIV/0!,"2,000",14.1,14.2,19.9,16.32
+Avena sativa,"N,P,K",Forage,ton,2000,10.24,1.373104523,0.237019425,1.260527809,"2,000",88.1,90.7,90.8,89.76
+Avena sativa,"N,P,K",Forage,ton,2000,9.1,1.456,0.203333333,1.53,"2,000",,88.7,92,90.9
+Avena sativa,N,Forage,ton,2000,10.9,1.536,#DIV/0!,#DIV/0!,"2,000",,85.5,92.7,89.1
+Avena sativa,"N,P,K",Forage,ton,2000,14.2,1.472,0.35,2.41,"2,000",,85,86.6,85.8
+Avena sativa,"N,P",Forage,ton,2000,8.65,1.232,0.23,#DIV/0!,"2,000",,91.7,91,91.35
+Avena sativa,"N,P",Forage,ton,2000,12.1,1.336,0.2,#DIV/0!,"2,000",,87.9,87.9,87.9
+Avena sativa,"N,P",Forage,ton,2000,9.9,2.208,0.43,#DIV/0!,"2,000",,89.2,,90.1
+Avena sativa,"N,P,K",Forage,ton,2000,73.43,1.450586466,0.339172932,2.149849624,"2,000",26.6,28.2,24.9,26.57
+Avena sativa,"N,P,K",Cereal and oil,lb straw/bu grain,44.5,9.68,0.706193318,0.085055679,2.389292873,,89.8,88.6,91.2,90.32
+Avena sativa,"N,P,K",Cereal and oil,lb straw/bu grain,44.5,10.2,0.734966592,0.100222717,2.227171492,,89.8,,,89.8
+Arrhenatherum elatius,N,Forage,ton,2000,8.1,1.63656148,#DIV/0!,#DIV/0!,"2,000",,,,91.9
+Vaccinium reticulatum,"N,P,K",Tree and fruit,lb of fruit,1,92.3,0.78961039,0.12987013,0.493506494,1,,,,7.7
+Abelmoschus esculentus,"N,P,K",Vegetable,lb of leaf,1,88,2.666666667,0.525,2.333333333,15,,,,12
+Luffa acutangula,"N,P",Vegetable,lb of leaf,1,93,2.742857143,0.457142857,#DIV/0!,15,,,,7
+Allium cepa,"N,P",Vegetable,lb of fruit ,1,90,2.2,0.26,#DIV/0!,10,,,,10
+Allium cepa,"N,P,K",Vegetable,lb of fruit ,1,86,1.714285714,0.307142857,1.285714286,10,,,,14
+Allium cepa,"N,P,K",Vegetable,lb of fruit ,1,90,0.8,0.27,1.2,10,,,,10
+Allium cepa,"N,P,K",Vegetable,lb of fruit ,1,90,2.08,0.43,1.2,11,,,,10
+Allium cepa,"N,P,K",Vegetable,lb of leaf,1,92,4,0.375,2.75,11,,,,8
+Citrus sinensis,"N,P,K",Tree and fruit,lb of fruit ,1,84.24,1.182515723,0.12048218,1.366037736,77,15.9,15.9,,15.76
+Citrus sinensis,"N,P,K",Tree and fruit,lb of fruit ,1,87.14,0.870917574,0.093312597,1.314152411,90,,,,12.86
+Citrus sinensis,"N,P,K",Tree and fruit,lb of fruit ,1,82.3,1.175141243,0.124293785,1.107344633,77,,,,17.7
+Citrus sinensis,"N,P,K",Tree and fruit,lb of fruit ,1,86.81,1.249431387,0.144048522,1.349507202,77,,,,13.19
+Citrus sinensis,"N,P,K",Tree and fruit,lb of fruit ,1,86.34,1.218155198,1.244509517,1.310395315,77,,,,13.66
+"Medicago Sativa, Dactylis glomerata","N,P",Forage,ton,2000,9.7,2.479714286,0.267857143,#DIV/0!,"2,000",89.6,91.2,91.4,90.3
+"Medicago Sativa, Dactylis glomerata","N,P,K",Forage,ton,2000,7.95,2.144,0.2,1.49,"2,000",,92.9,91.2,92.05
+Dactylis glomerata,"N,P,K",Forage,ton,2000,74.13,2.368,0.175,2.635,"2,000",,24.9,26.7,25.87
+Dactylis glomerata,N,Forage,ton,2000,9.6,1.056,#DIV/0!,#DIV/0!,"2,000",,90.4,,90.4
+Dactylis glomerata,"N,P,K",Forage,ton,2000,72.2,1.537631654,0.202377049,2.09,"2,000",30.5,30.5,26.8,27.8
+Dactylis glomerata,"N,P,K",Forage,ton,2000,73.16,2.304655216,0.411997486,3.42,"2,000",27.5,27.5,32.5,26.84
+Dactylis glomerata,"N,P,K",Forage,ton,2000,10.83,1.714403608,0.253232807,2.798649944,"2,000",88.7,88.6,90.4,89.17
+Dactylis glomerata,"N,P,K",Forage,ton,2000,10.45,1.254326304,0.25,3.69,"2,000",,90.4,92.7,89.55
+Dactylis glomerata,"N,P,K",Forage,ton,2000,9.5,1.696,0.45,2.05,"2,000",,94.6,91.9,90.5
+Dactylis glomerata,"N,P,K",Forage,ton,2000,12.48,2.393352614,0.46134594,3.823743048,"2,000",89.9,84.1,91.1,87.53
+Dactylis glomerata,"N,P,K",Forage,ton,2000,9.83,1.438401776,0.336592675,3.825,"2,000",,89.3,91.1,90.17
+Carica papaya,"N,P,K",Tree and fruit,lb of fruit ,1,88.83,0.873769024,0.044762757,2.30080573,10,,,,11.17
+Petroselinum crispum,"N,P,K",Vegetable,lb of leaf,1,90,3.52,0.4,2.7,21,,,,10
+Pastinaca sativa,"N,P,K",Vegetable,lb of leaf,1,81,1.010526316,0.363157895,1.736842105,25,,,,19
+Passiflora edulis,"N,P,K",Tree and fruit,lb of fruit,1,72.93,1.300332471,0.251200591,1.285555966,1,,,,27.07
+Pisum sp.,N,Vegetable,ton,2000,13.5,1.530666667,#DIV/0!,#DIV/0!,"2,000",,84.7,87.8,86.5
+Pisum sp.,N,Vegetable,ton,2000,75,2,#DIV/0!,#DIV/0!,"2,000",,,,25
+Prunus persica,"N,P,K",Tree and fruit,lb of fruit ,1,87.83,0.953808752,0.097244733,1.59643436,25,,,,12.17
+Pisum sativum,"N,P,K",Vegetable,lb of fruit ,1,88,3.733333333,0.441666667,1.416666667,30,,,,12
+Pisum sativum,"N,P,K",Vegetable,lb of seed,1,79,4.495238095,0.523809524,1.238095238,30,,,,21
+Pisum sativum,"N,P,K",Forage,ton,2000,10.93,2.57420178,0.274977604,1.489888018,"2,000",89.3,88,89.6,89.08
+Pisum sativum,"N,P,K",Forage,ton,2000,73,2.256,0.29,1.4,"2,000",,27,,27
+Pisum sativum,"N,P,K",Vegetable,lb of seed,1,9.03,4.102871003,0.485316979,1.288902977,60,90.7,90.7,91.5,90.98
+Pisum sativum,"N,P,K",Vegetable,lb straw/lb grain,0.588,11.2,1.335618625,0.110432373,1.198669623,,90.2,90.2,87.8,88.8
+Lathyrus sylvestris,"N,P,K",Forage,ton,2000,73,4.22,0.37,2.22,"2,000",,,,27
+Pisum sativum,"N,P,K",Vegetable,lb of fruit ,1,87.1,2.24,0.23,1.4,30,,12.9,12.9,12.9
+Pisum sativum,"N,P,K",Vegetable,cwt,100,10.45,4.258871003,0.477816979,1.053902977,100,90.7,89.2,89.3,89.55
+Pisum sativum,"N,P,K",Vegetable,lb of seed,1,79.5,4.347619048,0.546904762,1.238095238,30,,,,20.5
+Pisum sativum,"N,P,K",Vegetable,ton,2000,11.2,1.335618625,0.110432373,1.198669623,"2,000",90.2,90.2,87.8,88.8
+Arachis hypogaea,"N,P,K",Vegetable,lb of fruit,1,6.82,4.254759672,0.350230252,0.561076869,1,94.1,93.1,94.7,93.18
+Arachis hypogaea,"N,P,K",Forage,ton,2000,8.25,2.331043478,0.156521739,0.921956522,"2,000",92,91.5,,91.75
+Arachis hypogaea,"N,P,K",Forage,ton,2000,9.15,1.747002208,0.186743929,1.379845475,"2,000",90.6,91.1,,90.85
+Arachis hypogaea,"N,P,K",Forage,ton,2000,10.83,1.915489059,0.16,1.38,"2,000",91.4,91.2,89.1,89.17
+Arachis hypogaea,"N,P",Vegetable,lb of seed,1,7.75,4.856613757,0.402116402,#DIV/0!,1,,,,92.25
+Arachis hypogaea,"N,P,K",Vegetable,lb vine/lb fruit,1.38,9.45,1.643002208,0.143487859,1.379690949,,90.6,90.5,,90.55
+Pyrus communis,"N,P,K",Tree and fruit,lb of fruit ,1,82.91,0.39271155,0.067943175,0.772081532,23,,,,17.09
+Pisum sativum,"N,P,K",Vegetable,lb of seed,1,79,4.495238095,0.523809524,1.238095238,30,,,,21
+Pisum sativum,"N,P,K",Vegetable,lb of fruit ,1,88,3.733333333,0.441666667,1.416666667,30,,,,12
+Carya illinoinensis,N,Tree and fruit,lb of nut,1,15,2.8,#DIV/0!,#DIV/0!,1,,,,85
+Capsicum annuum var. annuum,"N,P,K",Vegetable,lb of fruit ,1,92.5,2.178571429,0.377142857,2.142857143,30,,,,7.5
+Capsicum annuum var. annuum,"N,P,K",Vegetable,lb of fruit ,1,91,1.422222222,0.311111111,2.222222222,30,,,,9
+Capsicum annuum var. annuum,"N,P,K",Vegetable,lb of fruit ,1,86,2.285714286,0.328571429,1.857142857,30,,,,14
+Capsicum annuum var. annuum,"N,P,K",Vegetable,lb of fruit ,1,84,2,0.28125,2.625,30,,,,16
+Capsicum annuum var. annuum,"N,P,K",Vegetable,lb of fruit ,1,90,1.92,0.2,2.5,30,,,,10
+Diospyros kaki,"N,P,K",Tree and fruit,lb of fruit ,1,80.32,0.471544715,0.086382114,0.818089431,22,,,,19.68
+Diospyros virginiana,"N,P,K",Tree and fruit,lb of fruit ,1,64.4,0.359550562,0.073033708,0.870786517,22,,,,35.6
+Ananas comosus,"N,P,K",Tree and fruit,lb of fruit ,1,86.5,0.462222222,0.051851852,0.837037037,40,,,,13.5
+Pistacia vera,"N,P,K",Tree and fruit,lb of nut,1,3.87,3.42536149,0.523249766,1.137001977,1,,,,96.13
+Eugenia uniflora,"N,P,K",Tree and fruit,lb of fruit,1,90.81,1.392818281,0.119695321,1.12078346,1,,,,9.19
+Musa X paradisiaca,"N,P,K",Tree and fruit,lb of fruit ,1,65.28,0.599078341,0.097926267,1.437211982,25,,,,34.72
+Prunus sp.,"N,P,K",Tree and fruit,lb of fruit ,1,85.2,0.854054054,0.067567568,1.162162162,30,,,,14.8
+Punica granatum,"N,P,K",Tree and fruit,lb of fruit ,1,80.97,0.798738833,0.042038886,1.361008933,22,,,,19.03
+Solanum tuberosum,"N,P,K",Vegetable,cwt,100,77.2,1.608220035,0.247037645,1.997419561,100,21.2,23.1,22.8,22.8
+Solanum tuberosum,"N,P,K",Vegetable,ton,2000,48.9,2.24,0.2,3.95,"2,000",,87.2,,51.1
+None,"N,P,K",Forage,ton,2000,11.8,1.584,0.11,0.77,"2,000",,88.2,,88.2
+None,"N,P",Forage,ton,2000,6.5,1.328,0.16,#DIV/0!,"2,000",,93.5,,93.5
+None,N,Forage,ton,2000,5.5,1.185185185,#DIV/0!,#DIV/0!,"2,000",,,,94.5
+None,"N,P",Forage,ton,2000,9.5,0.777900552,0.077348066,#DIV/0!,"2,000",,,,90.5
+None,"N,P,K",Forage,ton,2000,10.3,1.054986425,0.132217195,1.08,"2,000",,91,,89.7
+None,"N,P,K",Forage,ton,2000,9,1.296703297,0.208791209,1.076923077,"2,000",91,,,91
+None,"N,P",Forage,ton,2000,9.05,0.594272035,0.05632209,#DIV/0!,"2,000",91.9,90,,90.95
+None,"N,P,K",Forage,ton,2000,8.1,0.761697497,0.087051143,0.794341676,"2,000",91.9,,,91.9
+None,"N,P",Forage,ton,2000,8.7,1.051478642,0.13143483,#DIV/0!,"2,000",91.3,,,91.3
+Opuntia sp.,"N,P,K",Tree and fruit,lb of fruit,1,87.55,0.93815261,0.192771084,1.767068273,1,,,,12.45
+Citrus grandis,"N,P,K",Tree and fruit,lb of fruit,1,89.1,1.11559633,0.155963303,1.981651376,1,,,,10.9
+Cucurbita pepo,"N,P,K",Vegetable,lb of fruit ,1,90.67,2.585038462,0.393653846,2.779038462,1000,10.4,8.7,9.2,9.33
+Cydonia oblonga,"N,P,K",Tree and fruit,lb of fruit ,1,83.8,0.395061728,0.104938272,1.216049383,22,,,,16.2
+Raphanus sativus,"N,P,K",Vegetable,lb of root,1,94,2.933333333,0.466666667,4.666666667,35,,,,6
+Raphanus sativus,"N,P,K",Vegetable,lb of root,1,94,1.866666667,0.45,3.166666667,35,,,,6
+Raphanus sativus,"N,P,K",Vegetable,lb of root,1,94,1.6,0.4,3.166666667,35,,,,6
+Rubus sp.,"N,P,K",Tree and fruit,lb of fruit ,1,86.57,1.084139985,0.089352197,1.13179449,6,,,,13.43
+Agrostis alba,"N,P,K",Forage,ton,2000,73.57,2.032,0.38,2.196666667,"2,000",,26.7,26.6,26.43
+Agrostis alba,"N,P,K",Forage,ton,2000,8.44,1.30737157,0.215376663,1.888991228,"2,000",91.2,92.3,91.2,91.56
+Agrostis alba,"N,P,K",Forage,ton,2000,7,1.504,0.35,1.69,"2,000",,90.7,95.3,93
+Agrostis alba,"N,P,K",Forage,ton,2000,8,2.208,0.15,2.39,"2,000",,92,92,92
+Agrostis alba,N,Forage,ton,2000,8.3,0.944,#DIV/0!,#DIV/0!,"2,000",,91.7,,91.7
+Agrostis alba,N,Forage,ton,2000,7.2,1.92,#DIV/0!,#DIV/0!,"2,000",,92.8,,92.8
+Rheum rhabarbarum,"N,P,K",Vegetable,lb of fruit,1,93.61,2.253521127,0.219092332,4.507042254,1,,,,6.39
+Rheum rhabarbarum,"N,P,K",Vegetable,lb of leaf,1,92,1.4,0.25,4.5,15,,,,8
+Oryza sativa,"N,P,K",Cereal and oil,cwt,100,11.33,1.386730857,0.286220466,0.453220721,100,88.8,88.8,89.1,88.67
+Oryza sativa,"N,P,K",Cereal and oil,lb straw/cwt grain,100,9.18,0.709101759,0.084112084,1.47722973,,92.5,90.5,89.8,90.82
+Syzygium jambos,"N,P,K",Tree and fruit,lb of fruit,1,93,1.371428571,0.114285714,1.757142857,1,,,,7
+Hibiscus sabdariffa,"N,P,K",Tree and fruit,lb of fruit,1,86.58,1.144560358,0.275707899,1.549925484,1,,,,13.42
+Brassica napus,"N,P,K",Vegetable,lb of root,1,90,1.92,0.41,2.2,1,,,,10
+Secale cereale,"N,P,K",Cereal and oil,bu,56,11.88,2.139235697,0.379510973,0.518784916,56,89.5,88.2,87.5,88.12
+Secale cereale,"N,P,K",Forage,ton,2000,79.6,2.842666667,0.376666667,3.12,"2,000",,20.6,20.6,20.4
+Secale cereale,"N,P",Forage,ton,2000,66.6,2.144,0.3,#DIV/0!,"2,000",,33.4,33.4,33.4
+Secale cereale,"N,P",Forage,ton,2000,76.6,1.392888889,0.256410256,#DIV/0!,"2,000",,,,23.4
+Secale cereale,"N,P,K",Forage,ton,2000,7.38,1.213701516,0.218438996,1.237513691,"2,000",91.3,91.8,93.4,92.62
+Secale cereale,N,Forage,ton,2000,6.9,1.68,#DIV/0!,#DIV/0!,"2,000",,93.1,93.1,93.1
+Secale cereale,N,Forage,ton,2000,9.1,1.296,#DIV/0!,#DIV/0!,"2,000",,90.9,90.9,90.9
+Secale cereale,"N,P,K",Cereal and oil,lb straw/bu grain,87,9.07,0.504688814,0.09424569,0.969956897,90,92.8,89.4,89.5,90.93
+Lolium perenne ssp. perenne,"N,P,K",Forage,ton,2000,76.88,1.86312782,0.281578947,2.548646617,"2,000",26.6,21.5,20.4,23.13
+Lolium perenne ssp. perenne,"N,P,K",Forage,ton,2000,79.13,3.966666667,0.4,3.08,"2,000",20,21.3,21.3,20.87
+Lolium perenne ssp. perenne,N,Forage,ton,2000,75,2,#DIV/0!,#DIV/0!,"2,000",,,,25
+Lolium perenne ssp. perenne,N,Forage,ton,2000,69.85,1.548,#DIV/0!,#DIV/0!,"2,000",,35.3,,30.15
+Lolium perenne ssp. perenne,"N,P,K",Forage,ton,2000,12.74,1.485349706,0.196247216,1.420227273,"2,000",88,83.9,86.6,87.26
+Lolium perenne ssp. perenne,N,Forage,ton,2000,8.6,2.24,#DIV/0!,#DIV/0!,"2,000",,91.4,91.4,91.4
+Lolium perenne ssp. perenne,N,Forage,ton,2000,15,1.85,#DIV/0!,#DIV/0!,"2,000",,,,85
+Lolium perenne ssp. perenne,"N,P",Forage,ton,2000,14.3,0.888,0.065,#DIV/0!,"2,000",,83.5,87.9,85.7
+Lolium perenne ssp. perenne,N,Forage,ton,2000,15,1.3,#DIV/0!,#DIV/0!,"2,000",,,,85
+Carthamus tinctorius,"N,P,K",Cereal and oil,cwt,100,7.6,2.672859291,0.6,0.75,100,93.1,93.1,93.4,92.4
+Distichlis sp.,"N,P",Forage,ton,2000,10.77,1.424,0.1,#DIV/0!,"2,000",,89.2,89.5,89.23
+Manilkara zapota,"N,P,K",Tree and fruit,lb of fruit,1,78,0.32,0.054545455,0.877272727,1,,,,22
+Pouteria sapota,"N,P,K",Tree and fruit,lb of fruit,1,62.43,0.902848017,0.074527549,0.915624168,1,,,,37.57
+Sesamum orientale,"N,P,K",Fiber and miscellaneous,cwt,100,6.88,3.657367955,0.773623188,0.5,100,92,92,94,93.13
+"Medicago Sativa, Bromus inermis","N,P,K",Forage,ton,2000,77.63,3.322074074,0.310555556,2.8,"2,000",22.5,21.6,,22.37
+"Medicago Sativa, Bromus inermis","N,P,K",Forage,ton,2000,11.58,2.41770852,0.271053812,1.897746637,"2,000",89.2,82.5,91,88.42
+"Medicago Sativa, Bromus inermis","N,P,K",Forage,ton,2000,10.1,2.192,0.295,1.4,"2,000",,89.9,89.9,89.9
+"Medicago Sativa, Bromus inermis","N,P",Forage,ton,2000,10.2,2.192,0.21,#DIV/0!,"2,000",,89.8,89.8,89.8
+Sorghum bicolor,"N,P,K",Cereal and oil,bu,56,11.18,1.867377828,0.332736562,0.386734323,56,89.3,89,89.8,88.82
+Sorghum bicolor,"N,P,K",Forage,ton,2000,76.85,1.368,0.24,2.51,"2,000",,,24.3,23.15
+Sorghum bicolor,"N,P",Forage,ton,2000,72.17,1.162666667,0.21,#DIV/0!,"2,000",,25.5,29,27.83
+Sorghum bicolor,"N,P,K",Forage,ton,2000,75.8,1.424,0.215,1.11,"2,000",,21.5,26.9,24.2
+Sorghum bicolor,"N,P,K",Forage,ton,2000,74.95,1.184963855,0.193493976,1.521927711,"2,000",24.9,22.5,26.8,25.05
+Sorghum bicolor,"N,P,K",Forage,ton,2000,71.6,1.012,0.21,1.11,"2,000",,27.9,31.3,28.4
+Sorghum bicolor,"N,P,K",Forage,ton,2000,73.9,0.968,0.2,1.11,"2,000",,26.1,,26.1
+Sorghum bicolor,"N,P,K",Forage,ton,2000,71.9,0.992,0.2,1.11,"2,000",,28.1,,28.1
+Sorghum bicolor,"N,P,K",Forage,ton,2000,66.1,1.2,0.2,1.11,"2,000",,33.9,,33.9
+Sorghum bicolor,"N,P,K",Forage,ton,2000,75.2,1.344,0.185,1.145,"2,000",,23.2,26.4,24.8
+Sorghum bicolor,"N,P,K",Cereal and oil,lb straw/bu grain,56,8.13,0.67210989,0.12896978,0.73,,91,92.5,92.5,91.88
+Sorghum bicolor ssp. drummondii,N,Cereal and oil,bu,40,8.3,2.330666667,#DIV/0!,#DIV/0!,40,,92.4,90.7,91.7
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,78.25,1.848,0.23,2.565,"2,000",,,20.5,21.75
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,76.6,1.28,0.3,1.45,"2,000",,23.4,23.4,23.4
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,74.5,1.410666667,0.3,1.58,"2,000",,23.6,29.9,25.5
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,70,0.88,0.21,1.82,"2,000",,30.3,29.7,30
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,82.05,2.547333333,0.41,2.275,"2,000",,17.6,18.2,17.95
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,7.83,1.779429778,0.291143963,2.15,"2,000",,,90.8,92.17
+Sorghum bicolor ssp. drummondii,"N,P,K",Forage,ton,2000,77,1.638,0.21,2.61,"2,000",,,,23
+Sorghum bicolor ssp. drummondii,N,Cereal and oil,ton,2000,9.6,1.312,#DIV/0!,#DIV/0!,"2,000",,90.4,,90.4
+Annona muricata,"N,P,K",Tree and fruit,lb of fruit,1,81.16,0.8492569,0.143312102,1.475583864,1,,,,18.84
+Glycine max,"N,P,K",Cereal and oil,bu,60,10.12,6.567758454,0.672763285,1.541666667,60,90,90.9,89.4,89.88
+Glycine max,"N,P,K",Forage,ton,2000,76.85,2.9395,0.282916667,0.919166667,"2,000",24,22.7,22.9,23.15
+Glycine max,N,Forage,ton,2000,80,2.55,#DIV/0!,#DIV/0!,"2,000",20,,,20
+Glycine max,"N,P,K",Forage,ton,2000,82.27,2.934923077,0.288461538,1.057692308,"2,000",20.8,16.2,16.2,17.73
+Glycine max,"N,P,K",Forage,ton,2000,75.8,2.644628099,0.289256198,0.867768595,"2,000",24.2,,,24.2
+Glycine max,"N,P,K",Forage,ton,2000,78.93,2.774923077,0.289487179,1.059230769,"2,000",20.8,21.3,21.1,21.07
+Glycine max,"N,P,K",Forage,ton,2000,10.66,2.571179594,0.244972726,1.105743473,"2,000",88.1,88.9,89.1,89.34
+Glycine max,"N,P",Forage,ton,2000,11.23,3.01669697,0.388787879,#DIV/0!,"2,000",88,89.4,88.9,88.77
+Glycine max,N,Forage,ton,2000,11.7,2.24,#DIV/0!,#DIV/0!,"2,000",,88.3,88.3,88.3
+Glycine max,"N,P,K",Forage,ton,2000,10.27,2.454363636,0.28469697,0.880909091,"2,000",88,91.1,90.1,89.73
+Glycine max,"N,P,K",Forage,ton,2000,7.1,2.44,0.27,0.97,"2,000",,93.6,92.2,92.9
+Glycine max,"N,P,K",Vegetable,lb of seed,1,73,5.333333333,0.218518519,0.777777778,1,,,,27
+Glycine max,"N,P,K",Cereal and oil,lb straw/bu grain,96.75,11.07,0.832386256,0.058747657,0.572058493,60,88.9,87.5,87.9,88.93
+Spinacia oleracea,"N,P,K",Vegetable,lb of leaf,1,90.64,5.2056,0.556,5.6625,32,,9.4,9.4,9.36
+Tetragonia tetragonioides,"N,P,K",Vegetable,lb of leaf,1,94,4,0.466666667,2.166666667,32,,,,6
+Cucurbita pepo var. melopepo,"N,P,K",Vegetable,lb of fruit ,1,94,2.666666667,0.466666667,3,42,,,,6
+Cucurbita pepo,"N,P,K",Vegetable,lb of fruit ,1,86,0.914285714,0.257142857,3.714285714,50,,,,14
+Momordica charantia,"N,P",Vegetable,lb of fruit ,1,94,2.933333333,0.466666667,#DIV/0!,42,,,,6
+Cucurbita moschata,"N,P,K",Vegetable,lb of fruit ,1,85,1.066666667,0.22,2.666666667,50,,,,15
+Benincasa hispida,"N,P,K",Vegetable,lb of fruit ,1,96,0.8,0.175,5,50,,,,4
+Benincasa hispida,"N,P",Vegetable,lb of fruit ,1,94,2.666666667,0.383333333,#DIV/0!,42,,,,6
+Cucurbita pepo var. melopepo,"N,P,K",Vegetable,lb of fruit ,1,92,2.8,0.475,2.375,42,,,,8
+Cucurbita maxima,"N,P,K",Vegetable,lb of fruit ,1,88,2.666666667,0.175,2.666666667,50,,,,12
+Cucurbita maxima,"N,P,K",Vegetable,lb of fruit ,1,91,3.555555556,0.422222222,3.666666667,50,,,,9
+Cucurbita pepo var. melopepo,"N,P,K",Vegetable,lb of fruit ,1,93,2.742857143,0.514285714,2.142857143,42,,,,7
+Cucurbita pepo var. melopepo,"N,P,K",Vegetable,lb of fruit ,1,95,3.84,0.64,4.4,42,,,,5
+Fragaria X ananassa var. ananassa,"N,P,K",Tree and fruit,lb of fruit ,1,91.28,1.253884935,0.213523132,1.96915777,32,,,,8.72
+Annona squamosa,"N,P,K",Tree and fruit,lb of fruit,1,73.23,1.231228988,0.119536795,0.922674636,1,,,,26.77
+Beta vulgaris,"N,P,K",Fiber and miscellaneous,ton,2000,80.3,1.342682927,0.243902439,1.524390244,2000,16.4,,,19.7
+Beta vulgaris,"N,P,K",Fiber and miscellaneous,ton,2000,79.28,1.052,0.2175,1.543333333,2000,,20.1,19.8,20.73
+Beta vulgaris,"N,P,K",Fiber and miscellaneous,ton,2000,83.03,2.433333333,0.225,5.79,2000,,15.9,,16.97
+Beta vulgaris,"N,P,K",Fiber and miscellaneous,ton,2000,82.1,2.457865169,0.224719101,5.786516854,2000,17.8,,,17.9
+Saccharum sp.,"N,P,K",Fiber and miscellaneous,ton,2000,73.83,0.866,0.235,2.96,2000,,,25.5,26.17
+Saccharum sp.,"N,P,K",Fiber and miscellaneous,ton,2000,35,0.088466667,0.020826667,0.229666667,2000,,,,65
+Saccharum sp.,"N,P,K",Fiber and miscellaneous,ton,2000,35,0.111,0.016,0.167,2000,,,,65
+Helianthus annuus,"N,P,K",Cereal and oil,cwt,100,7.36,3.130988604,0.619111111,0.733025641,100,93.6,93.6,92,92.64
+Helianthus annuus,"N,P,K",Cereal and oil,cwt,100,7.36,2.993186325,0.626388889,0.718782051,100,93.6,93.6,92,92.64
+Helianthus annuus,"N,P,K",Cereal and oil,lb stover/cwt fruit,100,13.3,0.86,0.11,1.94,,,,,86.7
+Helianthus annuus,"N,P,K",Cereal and oil,lb stover/cwt fruit,150,13.3,0.86,0.11,1.94,,,,,86.7
+Ipomoea batatas,"N,P,K",Vegetable,lb of root,1,68.85,0.909181818,0.150984848,1.036767677,40,,30.6,,31.15
+Ipomoea batatas,N,Vegetable,ton,2000,78.1,2.048,#DIV/0!,#DIV/0!,"2,000",,21.9,,21.9
+Melilotus sp.,"N,P,K",Forage,ton,2000,75,2.874,0.27,1.65,"2,000",,25,,25
+Melilotus sp.,"N,P,K",Forage,ton,2000,67.3,2.688,0.22,1.44,"2,000",,32.7,,32.7
+Melilotus sp.,"N,P,K",Forage,ton,2000,70.8,2.688,0.24,1.44,"2,000",,29.2,,29.2
+Melilotus sp.,"N,P",Forage,ton,2000,79.2,3.152,0.48,#DIV/0!,"2,000",,20.8,,20.8
+Melilotus sp.,"N,P,K",Forage,ton,2000,80.3,3.472,0.44,2.95,"2,000",,19.7,,19.7
+Melilotus sp.,"N,P,K",Forage,ton,2000,10.42,2.649712335,0.236055109,1.652559913,"2,000",91.8,91.3,88.5,89.58
+Melilotus sp.,N,Forage,ton,2000,17.4,2.768,#DIV/0!,#DIV/0!,"2,000",,82.6,82.6,82.6
+Melilotus sp.,N,Forage,ton,2000,11.1,2.064,#DIV/0!,#DIV/0!,"2,000",,88.9,88.9,88.9
+Melilotus sp.,"N,P,K",Forage,ton,2000,8.95,1.824,0.185,0.8,"2,000",,90.6,91.5,91.05
+Melilotus sp.,"N,P,K",Forage,ton,2000,9.8,2.576,0.295,1.78,"2,000",,90.2,,90.2
+Melilotus sp.,N,Forage,cwt,100,7.8,6.490950109,#DIV/0!,#DIV/0!,100,92.2,92.2,,92.2
+Melilotus sp.,"N,P,K",Forage,ton,2000,70.7,2.857055928,0.21,1.955,"2,000",,30.1,,29.3
+Melilotus sp.,"N,P,K",Forage,ton,2000,72.8,3.424,0.25,1.95,"2,000",,27.2,,27.2
+Melilotus sp.,"N,P,K",Forage,ton,2000,68.6,2.992,0.235,1.695,"2,000",,30.1,32.7,31.4
+Melilotus sp.,"N,P,K",Forage,ton,2000,65.2,3.44,0.25,1.95,"2,000",,34.8,,34.8
+Panicum virgatum,"N,P",Forage,ton,2000,44.85,0.944,0.09,#DIV/0!,"2,000",,55.3,,55.15
+Panicum virgatum,"N,P,K",Forage,ton,2000,58.07,0.81631746,0.15,1.97,"2,000",42,42,41.8,41.93
+Panicum virgatum,"N,P",Forage,ton,2000,60.4,1.008,0.12,#DIV/0!,"2,000",,39.6,,39.6
+Panicum virgatum,"N,P",Forage,ton,2000,23.3,0.304,0.05,#DIV/0!,"2,000",,76.7,,76.7
+Panicum virgatum,"N,P,K",Forage,ton,2000,67.27,1.642805195,0.215,2.85,"2,000",38.5,33.2,26.5,32.73
+Tamarindus indica,"N,P,K",Tree and fruit,lb of fruit,1,31.4,0.653061224,0.164723032,0.915451895,1,,,,68.6
+Citrus reticulata,"N,P,K",Tree and fruit,lb of fruit ,1,87.6,0.812903226,0.080645161,1.266129032,43,,,,12.4
+Colocasia esculenta,"N,P",Vegetable,lb of corm,1,72,0.864,0.265,#DIV/0!,10,,,,28
+Colocasia esculenta,"N,P,K",Vegetable,lb of corm,1,80,0.8,0.535,2.5,10,,,,20
+Colocasia esculenta,"N,P,K",Vegetable,lb of corm,1,82,1.777777778,0.333333333,3.944444444,10,,,,18
+"Medicago Sativa, Phleum pratense","N,P,K",Forage,ton,2000,78.08,3.364748858,0.368824201,2.239360731,"2,000",21.9,21.9,21.9,21.93
+"Medicago Sativa, Phleum pratense","N,P,K",Forage,ton,2000,10.37,2.172886905,0.211071429,2.16,"2,000",89.6,89,90.3,89.63
+"Medicago Sativa, Phleum pratense","N,P",Forage,ton,2000,9.8,1.792,0.14,#DIV/0!,"2,000",,90.2,90.2,90.2
+"Medicago Sativa, Phleum pratense","N,P",Forage,ton,2000,9,2.8,0.21,#DIV/0!,"2,000",,91,91,91
+"Phleum pratense, Trifolium sp.","N,P,K",Forage,ton,2000,11.1,1.488,0.17,1.81,"2,000",,88.9,,88.9
+"Phleum pratense, Trifolium partense","P,K",Forage,ton,2000,9.6,#DIV/0!,0.17,1.52,"2,000",,90.4,,90.4
+"Phleum pratense, Trifolium repens","N,P,K",Forage,ton,2000,70.6,3.168,0.2,2.22,"2,000",,29.4,,29.4
+Phleum pratense,"N,P,K",Forage,ton,2000,72.4,2.048,0.38,2.09,"2,000",,27.6,,27.6
+Phleum pratense,"N,P,K",Forage,ton,2000,73.05,1.578,0.3,2.06,"2,000",,28.9,,26.95
+Phleum pratense,"N,P,K",Forage,ton,2000,73.65,1.065,0.21,1.68,"2,000",,27.7,,26.35
+Phleum pratense,"N,P,K",Forage,ton,2000,69.6,0.963,0.18,1.57,"2,000",,35.8,,30.4
+Phleum pratense,"N,P,K",Forage,ton,2000,74.45,2.406,0.43,2.54,"2,000",,26.1,,25.55
+Phleum pratense,"N,P,K",Forage,ton,2000,9.48,1.200544551,0.167447757,1.629129214,"2,000",89,88.6,91.1,90.52
+Phleum pratense,"N,P,K",Forage,ton,2000,12.2,1.205213483,0.233679775,1.826348315,"2,000",89,86.6,89.4,87.8
+Phleum pratense,"N,P,K",Forage,ton,2000,13.08,0.952264045,0.169513109,1.588089888,"2,000",89,83.8,89.9,86.92
+Phleum pratense,"N,P,K",Forage,ton,2000,11.96,1.540957303,0.221488764,1.82,"2,000",89,88.1,89.1,88.04
+Phleum pratense,"N,P,K",Forage,ton,2000,12.28,2.052714607,0.4,3.05,"2,000",89,86.3,89.3,87.72
+Phleum pratense,"N,P,K",Forage,ton,2000,13.65,2.25,0.34,1.9,"2,000",,87.7,,86.35
+Phleum pratense,"N,P,K",Forage,ton,2000,66.7,1.697070119,0.290315534,1.685711974,"2,000",30.9,34,34.3,33.3
+Phleum pratense,"N,P,K",Forage,ton,2000,66.3,1.5,0.24,1.59,"2,000",,33.7,,33.7
+Phleum pratense,"N,P,K",Forage,ton,2000,63.7,1.632,0.29,1.69,"2,000",,36.3,,36.3
+Phleum pratense,"N,P,K",Forage,ton,2000,64.3,1.552,0.29,1.69,"2,000",,35.7,,35.7
+Phleum pratense,"N,P,K",Forage,ton,2000,58.5,1.344,0.29,1.69,"2,000",,41.5,,41.5
+Phleum pratense,"N,P,K",Forage,ton,2000,73.1,1.92,0.29,1.69,"2,000",,26.9,,26.9
+Phleum pratense,"N,P,K",Forage,ton,2000,70.3,1.872,0.32,1.69,"2,000",,29.7,29.7,29.7
+Nicotiana tabacum,"N,P,K",Fiber and miscellaneous,cwt,100,25,4,0.312,3.86,100,,,,75
+Nicotiana tabacum,"N,P,K",Fiber and miscellaneous,cwt,100,78.5,3.85,0.173,2.9,100,,,,21.5
+Nicotiana tabacum,N,Fiber and miscellaneous,cwt,100,18,3.1,#DIV/0!,#DIV/0!,100,,,,82
+Nicotiana tabacum,"N,P,K",Fiber and miscellaneous,cwt,100,20,2.133,0.2725,1.989,100,,,,80
+Solanum lycopersicum var. lycopersicum,"N,P,K",Vegetable,lb of fruit ,1,94,2.558023392,0.471052632,4.278701754,10,5.7,6.1,6.2,6
+Lotus corniculatus,"N,P,K",Forage,ton,2000,80.13,3.162666667,0.24,2.786666667,"2,000",,22.5,18.1,19.87
+Lotus corniculatus,N,Forage,ton,2000,75,3.2,#DIV/0!,#DIV/0!,"2,000",,,,25
+Lotus corniculatus,"N,P,K",Forage,ton,2000,78,2.63,0.27,2.98,"2,000",,,19,22
+Lotus corniculatus,"N,P,K",Forage,ton,2000,9.97,2.517333333,0.226666667,1.886666667,"2,000",,89,90.1,90.03
+Lotus corniculatus,N,Forage,ton,2000,12.8,3.11,#DIV/0!,#DIV/0!,"2,000",,,89.4,87.2
+Lotus corniculatus,N,Forage,ton,2000,10.7,2.252,#DIV/0!,#DIV/0!,"2,000",,,93.6,89.3
+X Triticosecale rimpaui,"N,P,K",Cereal and oil,bu,48,10.95,2.453661029,0.34,0.57,48,,,89.1,89.05
+Brassica rapa var. rapa,"N,P,K",Forage,ton,2000,86.53,3.298,0.4225,3.015,"2,000",15,12.7,13.2,13.48
+Brassica rapa var. rapa,"N,P,K",Vegetable,lb of leaf,1,87.3,3.488,0.51,3,1,,12.7,,12.7
+Brassica rapa var. rapa,"N,P,K",Vegetable,lb of root,1,91.06,2.242012903,0.318758961,2.732139785,50,9.3,9.7,8.7,8.94
+Vicia sp.,"N,P",Forage,lb of seed,1,9.55,4.608,0.59,#DIV/0!,1,,,89.9,90.45
+Vica sativa,"N,P,K",Forage,ton,2000,79.7,2.983098039,0.331045752,2.5,"2,000",20.4,20.4,20.1,20.3
+Vica sativa,"N,P,K",Forage,ton,2000,75,3.7,0.26,3.15,"2,000",,,,25
+Vica sativa,"N,P,K",Forage,ton,2000,75,3,0.35,2.51,"2,000",,,,25
+Vica sativa,"N,P,K",Forage,ton,2000,12.2,2.596629214,0.359850187,2.238127341,"2,000",89,85.4,89,87.8
+Vica sativa,N,Forage,ton,2000,16,3.552,#DIV/0!,#DIV/0!,"2,000",,83,,84
+Vica sativa,N,Forage,ton,2000,14.7,2.938,#DIV/0!,#DIV/0!,"2,000",,85.6,,85.3
+Vica villosa,"N,P,K",Forage,ton,2000,78.25,3.754,0.33,2.25,"2,000",,18.5,,21.75
+Vica villosa,"N,P,K",Forage,ton,2000,12.1,3.679821555,0.35628692,2.228636364,"2,000",88,88.8,,87.9
+Vica villosa,"N,P,K",Forage,ton,2000,11.5,3.616,0.36,2.09,"2,000",,88.5,88.5,88.5
+Juglans nigra,"N,P,K",Tree and fruit,lb of nut,1,4.36,4.073609369,0.485152656,0.547887913,1,,,,95.64
+Juglans regia,"N,P,K",Tree and fruit,lb of nut,1,3.65,2.373015049,0.329008822,0.521017125,1,,,,96.35
+Triticum sp.,"N,P",Forage,ton,2000,73.55,2.336,0.31,#DIV/0!,"2,000",,25.9,27,26.45
+Triticum sp.,N,Forage,ton,2000,73.4,1.92,#DIV/0!,#DIV/0!,"2,000",,26.6,,26.6
+Triticum sp.,"N,P,K",Forage,ton,2000,11.3,1.251017699,0.197278761,1.204026549,"2,000",90.4,86.4,89,88.7
+Triticum sp.,N,Forage,ton,2000,17.45,1.28,#DIV/0!,#DIV/0!,"2,000",,82.6,82.5,82.55
+Triticum sp.,"N,P",Forage,ton,2000,12.75,1.232,0.2,#DIV/0!,"2,000",,85.2,89.3,87.25
+Triticum sp.,N,Forage,ton,2000,15.7,1.456,#DIV/0!,#DIV/0!,"2,000",,84.3,84.3,84.3
+Triticum aestivum,"N,P,K",Cereal and oil,bu,60,11.45,2.703995561,0.434650388,0.41,60,90.1,90.1,,88.55
+Triticum aestivum,"N,P,K",Cereal and oil,bu,60,11.68,2.303221477,0.434949664,0.486666667,60,89.4,88.8,88.4,88.32
+Triticum aestivum,"N,P,K",Cereal and oil,bu,60,11.44,1.943870852,0.373778027,0.453333333,60,89.2,89.2,90.4,88.56
+Triticum aestivum,"N,P,K",Cereal and oil,bu,60,11.41,1.800168256,0.368823612,0.486666667,60,89.15,88,89.9,88.59
+Triticum durum,"N,P,K",Cereal and oil,bu,60,11.83,2.432,0.423333333,0.503333333,60,,88.8,87.7,88.17
+Poaceae,N,Forage,ton,2000,55.4,1.392,#DIV/0!,#DIV/0!,"2,000",,44.6,,44.6
+Poaceae,N,Forage,ton,2000,39.5,1.44,#DIV/0!,#DIV/0!,"2,000",,60.5,,60.5
+Poaceae,N,Forage,ton,2000,63.4,1.456,#DIV/0!,#DIV/0!,"2,000",,36.6,,36.6
+Poaceae,"N,P",Forage,ton,2000,8.37,1.343486506,0.07,#DIV/0!,"2,000",,90.8,92.7,91.63
+Poaceae,"N,P,K",Forage,ton,2000,8,1.376,0.27,2.67,"2,000",,92,,92
+Poaceae,N,Forage,ton,2000,10.2,0.848,#DIV/0!,#DIV/0!,"2,000",,89.8,,89.8
+Poaceae,"N,P",Forage,ton,2000,9.6,0.848,0.1,#DIV/0!,"2,000",,90.4,,90.4
+Pseudoroegneria spicata,N,Forage,ton,2000,11.1,0.544,#DIV/0!,#DIV/0!,"2,000",,88.9,,88.9
+Agropyron sp.,"N,P,K",Forage,ton,2000,54.25,1.872,0.14,1.72,"2,000",,46.5,45,45.75
+Agropyron sp.,"N,P",Forage,ton,2000,62.4,1.541333333,0.18,#DIV/0!,"2,000",,36.9,34.9,37.6
+Agropyron sp.,"N,P,K",Forage,ton,2000,61.27,1.188437218,0.15,1.04,"2,000",36.9,,34.3,38.73
+Agropyron sp.,"N,P,K",Forage,ton,2000,44.7,1.000833333,0.145833333,1.04,"2,000",60,60,56.2,55.3
+Agropyron sp.,"N,P",Forage,ton,2000,7.85,1.528,0.15,#DIV/0!,"2,000",,92.3,,92.15
+Agropyron sp.,"N,P",Forage,ton,2000,13.03,1.904444444,0.27,#DIV/0!,"2,000",90,90.9,,86.97
+Agropyron sp.,"N,P",Forage,ton,2000,12.55,1.396,0.16,#DIV/0!,"2,000",,94.9,,87.45
+Agropyron sp.,"N,P",Forage,ton,2000,10.6,0.776,0.09,#DIV/0!,"2,000",,94.4,93.8,89.4
+Agropyron sp.,N,Forage,ton,2000,3.6,1.832,#DIV/0!,#DIV/0!,"2,000",,96.4,96.4,96.4
+Thinopyrum intermedium,"N,P,K",Forage,ton,2000,9.95,1.303407407,0.19,1.65,"2,000",90,90.1,90.1,90.05
+Elymus trachycaulus,"N,P,K",Forage,ton,2000,8.93,1.396740741,0.254166667,2.679444444,"2,000",90,92,91.3,91.08
+Elymus trachycaulus,N,Forage,ton,2000,5.4,1.936,#DIV/0!,#DIV/0!,"2,000",,94.6,,94.6
+Elymus trachycaulus,N,Forage,ton,2000,6.8,1.472,#DIV/0!,#DIV/0!,"2,000",,93.2,,93.2
+Elymus trachycaulus,N,Forage,ton,2000,7.1,2.88,#DIV/0!,#DIV/0!,"2,000",,92.9,,92.9
+Thinopyrum ponticum,N,Forage,ton,2000,11,1.264,#DIV/0!,#DIV/0!,"2,000",,,,89
+Elymus lanceolatus,N,Forage,ton,2000,8,1.2,#DIV/0!,#DIV/0!,"2,000",,92,,92
+Pascopyrum smithii,"N,P",Forage,ton,2000,10.85,1.376,0.25,#DIV/0!,"2,000",,89.4,88.9,89.15
+Pascopyrum smithii,N,Forage,ton,2000,6.6,1.376,#DIV/0!,#DIV/0!,"2,000",,93.4,,93.4
+Pascopyrum smithii,"N,P",Forage,ton,2000,10.1,0.736,0.08,#DIV/0!,"2,000",,90.2,89.6,89.9
+Pascopyrum smithii,"N,P",Forage,ton,2000,11.8,1.92,0.21,#DIV/0!,"2,000",,88.2,88.2,88.2
+Triticum spelta,"N,P",Cereal and oil,bu,40,10.17,2.128,0.42,#DIV/0!,40,,89.6,89.9,89.83
+Triticum spelta,N,Cereal and oil,lb straw/bu grain,80.475,17.25,0.528,#DIV/0!,#DIV/0!,,,82.8,82.7,82.75
+Triticum sp.,"N,P,K",Cereal and oil,lb straw/bu grain,80.475,9.22,0.63895731,0.063898488,1.173574514,,92.6,87.8,91.1,90.78
+Triticum sp.,"N,P,K",Cereal and oil,lb straw/bu grain,92.475,9.22,0.63895731,0.063898488,1.173574514,,92.6,87.8,91.1,90.78
+Zizania palustris,"N,P,K",Cereal and oil,lb of caryopsis,1,37.5,2.64432,0.4995,0.489,1,,,,62.5
+Zizania palustris,"N,P,K",Cereal and oil,lb straw/lb grain,1.31,9.2,0.809,0.11,0.788,,,,,90.8
+Dioscorea sp.,"N,P,K",Vegetable,lb of tuber,1,74,1.107692308,0.25,2.307692308,50,,,,26
+Malpighia emarginata,"N,P,K",Tree and fruit,lb of fruit,1,91.41,0.745052387,0.128055879,1.699650757,1,,,,8.59
